@@ -1,0 +1,3192 @@
+[
+  {
+    "warranty_details": [
+      {
+        "id": "f9a6625e-b4d2-4698-9e6b-7978fb64723e",
+        "created_at": "2023-09-21T22:52:52.494Z",
+        "updated_at": "2023-09-22T18:02:02.912Z"
+      },
+      {
+        "id": "fb3e608d-90e4-47c0-a8c3-23a1d1902677",
+        "created_at": "2023-09-22T12:22:45.493Z",
+        "updated_at": "2023-09-22T12:07:04.082Z"
+      },
+      {
+        "id": "95a41488-4c15-430d-a4c8-b9f346b054d6",
+        "created_at": "2023-09-22T07:23:06.411Z",
+        "updated_at": "2023-09-22T07:23:14.000Z"
+      },
+      {
+        "id": "7de4c4f4-dab0-4712-a9fc-591832254cbb",
+        "created_at": "2023-09-22T16:38:12.400Z",
+        "updated_at": "2023-09-22T10:47:38.485Z"
+      },
+      {
+        "id": "540b545b-b73f-46ce-8db6-e242297bf881",
+        "created_at": "2023-09-22T10:44:51.689Z",
+        "updated_at": "2023-09-22T05:58:28.798Z"
+      }
+    ],
+    "service_type": [
+      {
+        "id": "dec5c4bb-aebe-4a29-9993-c6da5c4abb68",
+        "created_at": "2023-09-21T21:47:53.076Z",
+        "updated_at": "2023-09-22T04:35:08.750Z"
+      },
+      {
+        "id": "b18f3250-4d99-4eca-8add-99db438c1549",
+        "created_at": "2023-09-22T13:59:25.118Z",
+        "updated_at": "2023-09-22T01:58:13.515Z"
+      },
+      {
+        "id": "7734747a-fcdb-4a87-8492-e2b83b43df94",
+        "created_at": "2023-09-22T16:08:27.768Z",
+        "updated_at": "2023-09-22T08:59:31.400Z"
+      },
+      {
+        "id": "db1e5980-eb4b-4d27-88a4-88e88cc44964",
+        "created_at": "2023-09-22T10:07:43.535Z",
+        "updated_at": "2023-09-21T23:53:51.460Z"
+      },
+      {
+        "id": "a9861e7a-fe26-4780-a186-281433c80e81",
+        "created_at": "2023-09-22T09:51:56.257Z",
+        "updated_at": "2023-09-22T09:10:41.936Z"
+      }
+    ],
+    "service_ticket": [
+      {
+        "id": "a2b8fb02-033e-4beb-823d-c903546a5c01",
+        "created_at": "2023-09-22T12:59:28.722Z",
+        "updated_at": "2023-09-21T20:00:01.529Z"
+      },
+      {
+        "id": "7b227955-0562-4c98-af1a-ef849e27596a",
+        "created_at": "2023-09-22T07:23:19.474Z",
+        "updated_at": "2023-09-22T07:10:28.288Z"
+      },
+      {
+        "id": "2f64bc83-08d7-46f8-851d-83e8d56e65fb",
+        "created_at": "2023-09-22T01:16:03.079Z",
+        "updated_at": "2023-09-22T17:29:28.828Z"
+      },
+      {
+        "id": "c36f799e-d5ec-404d-a723-47661655475f",
+        "created_at": "2023-09-22T08:14:55.018Z",
+        "updated_at": "2023-09-22T03:13:24.754Z"
+      },
+      {
+        "id": "25dd7955-8f38-4db3-8191-7db8c7ef1c39",
+        "created_at": "2023-09-22T07:11:45.266Z",
+        "updated_at": "2023-09-21T21:58:52.305Z"
+      }
+    ],
+    "service_status": [
+      {
+        "id": "16d36eeb-7c1c-4308-9506-06cb32e27cf7",
+        "created_at": "2023-09-22T10:59:33.396Z",
+        "updated_at": "2023-09-22T18:25:26.790Z"
+      },
+      {
+        "id": "61c2881a-e44d-4201-98e5-a9abfd789c15",
+        "created_at": "2023-09-22T13:06:17.797Z",
+        "updated_at": "2023-09-22T03:53:45.499Z"
+      },
+      {
+        "id": "de02a39c-6d4a-4f8c-8d69-2806e6e14379",
+        "created_at": "2023-09-22T15:07:58.461Z",
+        "updated_at": "2023-09-22T13:44:51.964Z"
+      },
+      {
+        "id": "bf6ffd12-5ea4-4281-86d0-163895bcfb00",
+        "created_at": "2023-09-22T06:11:12.769Z",
+        "updated_at": "2023-09-22T11:13:42.289Z"
+      },
+      {
+        "id": "8a285310-9842-46a9-9db3-c411310f2d44",
+        "created_at": "2023-09-21T22:56:32.036Z",
+        "updated_at": "2023-09-22T08:43:54.892Z"
+      }
+    ],
+    "service_parts": [
+      {
+        "id": "0477155f-5700-496b-9f01-cafdc8f1a261",
+        "created_at": "2023-09-22T05:39:03.703Z",
+        "updated_at": "2023-09-22T05:57:42.041Z"
+      },
+      {
+        "id": "908bf9fc-2067-4689-bc5d-3b0bdcdcf1e3",
+        "created_at": "2023-09-22T13:55:18.060Z",
+        "updated_at": "2023-09-22T13:52:29.226Z"
+      },
+      {
+        "id": "ca17e8a2-ad88-4ed5-93ef-9bfa70844b9c",
+        "created_at": "2023-09-22T00:46:50.785Z",
+        "updated_at": "2023-09-22T00:57:58.954Z"
+      },
+      {
+        "id": "321231aa-3989-44a1-b78f-03b4204d738f",
+        "created_at": "2023-09-22T04:38:28.781Z",
+        "updated_at": "2023-09-21T20:00:53.031Z"
+      },
+      {
+        "id": "fd96ac04-7ff4-4252-a876-c6d43f4ecf10",
+        "created_at": "2023-09-22T01:01:15.885Z",
+        "updated_at": "2023-09-21T23:50:41.730Z"
+      }
+    ],
+    "service_location": [
+      {
+        "id": "97389eee-5173-4f50-9637-ab59fe6b4388",
+        "created_at": "2023-09-22T10:46:31.411Z",
+        "updated_at": "2023-09-22T05:18:04.124Z"
+      },
+      {
+        "id": "9e0f237b-4f28-44b6-8af0-6dcb824e6c44",
+        "created_at": "2023-09-22T16:19:37.079Z",
+        "updated_at": "2023-09-22T17:24:13.364Z"
+      },
+      {
+        "id": "bd2ba747-385d-4000-8777-63000cb6144c",
+        "created_at": "2023-09-21T23:13:55.721Z",
+        "updated_at": "2023-09-22T15:09:55.584Z"
+      },
+      {
+        "id": "a2d0d119-22fc-4b01-a10f-1f64c344f21d",
+        "created_at": "2023-09-22T08:08:42.460Z",
+        "updated_at": "2023-09-22T08:33:35.145Z"
+      },
+      {
+        "id": "f527e807-0489-4880-92bb-eebc8a30928d",
+        "created_at": "2023-09-22T12:16:12.134Z",
+        "updated_at": "2023-09-22T18:51:04.606Z"
+      }
+    ],
+    "service_history": [
+      {
+        "id": "90cdadff-9dd4-4599-8b02-04fe76b5257b",
+        "created_at": "2023-09-22T16:15:59.160Z",
+        "updated_at": "2023-09-22T14:54:35.604Z"
+      },
+      {
+        "id": "463b13b2-13cb-4e92-99d5-4aba3930a4cc",
+        "created_at": "2023-09-22T03:46:44.870Z",
+        "updated_at": "2023-09-22T10:20:23.135Z"
+      },
+      {
+        "id": "841c49da-4c66-44b8-b8e8-c3196482489f",
+        "created_at": "2023-09-22T08:20:28.396Z",
+        "updated_at": "2023-09-21T20:59:01.030Z"
+      },
+      {
+        "id": "8445098e-4881-4d8f-b1bc-940f596b7e3c",
+        "created_at": "2023-09-21T22:52:13.040Z",
+        "updated_at": "2023-09-22T01:39:09.520Z"
+      },
+      {
+        "id": "5dbc6334-1320-4950-b55f-f438c754123a",
+        "created_at": "2023-09-22T13:52:40.845Z",
+        "updated_at": "2023-09-22T12:15:30.567Z"
+      }
+    ],
+    "laptop_owner": [
+      {
+        "id": "a65b4cb6-bf78-428a-bd6d-c743efb7122c",
+        "created_at": "2023-09-22T16:07:51.919Z",
+        "updated_at": "2023-09-22T12:15:08.832Z"
+      },
+      {
+        "id": "15236d30-03e7-402f-b57b-2ac1756fa76d",
+        "created_at": "2023-09-22T00:08:27.828Z",
+        "updated_at": "2023-09-21T20:40:41.284Z"
+      },
+      {
+        "id": "683ebb57-da6b-42cf-af39-3349d0e653dc",
+        "created_at": "2023-09-22T01:09:06.578Z",
+        "updated_at": "2023-09-22T01:28:19.725Z"
+      },
+      {
+        "id": "315b5244-8578-4a36-91c4-466104fb3503",
+        "created_at": "2023-09-22T00:31:34.780Z",
+        "updated_at": "2023-09-22T11:28:37.293Z"
+      },
+      {
+        "id": "434a6bf4-f974-40ff-9312-29a16ca4751c",
+        "created_at": "2023-09-22T07:26:19.664Z",
+        "updated_at": "2023-09-22T05:23:13.443Z"
+      }
+    ],
+    "laptop_model": [
+      {
+        "id": "c0bf5b22-3203-47e8-ab98-f6358a901ea7",
+        "created_at": "2023-09-22T09:23:12.363Z",
+        "updated_at": "2023-09-22T11:59:06.722Z"
+      },
+      {
+        "id": "2c7531b4-135c-4c39-ac78-9e2aeb6875c6",
+        "created_at": "2023-09-22T09:18:46.391Z",
+        "updated_at": "2023-09-21T23:17:39.803Z"
+      },
+      {
+        "id": "4b05f65c-066d-4520-86fd-a27f2f511272",
+        "created_at": "2023-09-21T19:30:42.638Z",
+        "updated_at": "2023-09-22T00:57:29.108Z"
+      },
+      {
+        "id": "b6d03825-a5ad-4d2c-8ab0-852458416f21",
+        "created_at": "2023-09-22T15:21:22.766Z",
+        "updated_at": "2023-09-22T17:26:34.958Z"
+      },
+      {
+        "id": "f5993e47-fdc7-4936-ae22-52599a8eb6d0",
+        "created_at": "2023-09-22T01:12:43.522Z",
+        "updated_at": "2023-09-22T18:22:06.628Z"
+      }
+    ],
+    "laptop_inventory": [
+      {
+        "id": "e3cc3efe-2719-4ef6-ba3c-2520235c5998",
+        "created_at": "2023-09-22T00:34:22.406Z",
+        "updated_at": "2023-09-21T22:12:38.256Z"
+      },
+      {
+        "id": "f8a48484-6af3-4601-a5d9-464b2ab1bf3f",
+        "created_at": "2023-09-22T13:52:15.327Z",
+        "updated_at": "2023-09-22T08:56:30.050Z"
+      },
+      {
+        "id": "26ff5aaf-94ba-4310-9121-46a65321c869",
+        "created_at": "2023-09-22T05:11:04.788Z",
+        "updated_at": "2023-09-22T01:32:40.698Z"
+      },
+      {
+        "id": "f883b9a5-86ed-4730-9d84-ab67ba2151c3",
+        "created_at": "2023-09-21T23:53:47.282Z",
+        "updated_at": "2023-09-21T20:29:46.979Z"
+      },
+      {
+        "id": "702ed2ab-1040-4677-a516-ce56ced521e5",
+        "created_at": "2023-09-22T13:41:06.817Z",
+        "updated_at": "2023-09-22T15:02:31.699Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "473a76f2-33f5-42a6-9365-8c72dbe6bb6a",
+        "email": "Amira.Hane@roq.tech",
+        "firstName": "Josefa",
+        "lastName": "Bailey",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/27120525",
+        "tenantId": null
+      },
+      {
+        "reference": "fba70094-6036-4900-ac0f-03d34ddbc0e2",
+        "email": "Emie.Reichert@roq.tech",
+        "firstName": "Gordon",
+        "lastName": "Ziemann",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/898.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "3c4b743c-6c40-499f-a778-402685fed9ce",
+        "email": "Lucinda.Johnson@roq.tech",
+        "firstName": "Jairo",
+        "lastName": "Bailey",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/88181445",
+        "tenantId": null
+      },
+      {
+        "reference": "83386d36-c818-4c3e-a853-330c3fd0328b",
+        "email": "Gladyce_Toy16@roq.tech",
+        "firstName": "Wendy",
+        "lastName": "Volkman",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1139.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "b0036ef4-4344-4883-9175-1168e014d603",
+        "email": "Danyka_Schuster@roq.tech",
+        "firstName": "Karianne",
+        "lastName": "Hermann",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/84297848",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "warranty_details": [
+      {
+        "id": "b2f38d30-0bd8-4151-a64c-a6a9d486378e",
+        "created_at": "2023-09-22T03:27:19.257Z",
+        "updated_at": "2023-09-22T15:57:23.225Z"
+      },
+      {
+        "id": "f50ec24f-66f5-47f6-a925-fffb7affa6de",
+        "created_at": "2023-09-22T04:19:41.884Z",
+        "updated_at": "2023-09-22T17:40:52.894Z"
+      },
+      {
+        "id": "43f2bfa9-566d-4987-a73a-3fad79620f6b",
+        "created_at": "2023-09-22T00:42:09.623Z",
+        "updated_at": "2023-09-21T21:52:10.211Z"
+      },
+      {
+        "id": "f6370ad2-a215-4916-8da8-ec811aebc806",
+        "created_at": "2023-09-22T18:26:14.942Z",
+        "updated_at": "2023-09-22T08:05:55.554Z"
+      },
+      {
+        "id": "96f7fee7-5a4c-4654-92e5-58e791a08fb8",
+        "created_at": "2023-09-21T23:35:14.768Z",
+        "updated_at": "2023-09-21T22:03:45.299Z"
+      }
+    ],
+    "service_type": [
+      {
+        "id": "ba408ad3-fa67-40b5-8ada-dc9d1de8e1a7",
+        "created_at": "2023-09-22T16:24:20.473Z",
+        "updated_at": "2023-09-22T13:03:21.510Z"
+      },
+      {
+        "id": "eaa7a604-2e66-40b8-846b-0dced920f4fe",
+        "created_at": "2023-09-22T00:16:37.717Z",
+        "updated_at": "2023-09-21T20:55:08.358Z"
+      },
+      {
+        "id": "dc5e89a8-b893-4332-856f-1bb85d39564b",
+        "created_at": "2023-09-21T23:48:43.545Z",
+        "updated_at": "2023-09-22T18:11:10.551Z"
+      },
+      {
+        "id": "e767681d-c40a-458c-844c-f2f71f3d25e9",
+        "created_at": "2023-09-22T04:01:48.068Z",
+        "updated_at": "2023-09-21T23:29:32.338Z"
+      },
+      {
+        "id": "8fe8b625-f29b-458f-b120-7c9d4237d417",
+        "created_at": "2023-09-22T07:03:07.633Z",
+        "updated_at": "2023-09-22T00:25:21.165Z"
+      }
+    ],
+    "service_ticket": [
+      {
+        "id": "4953dc87-e82c-4cd1-8d9d-657e1c3af441",
+        "created_at": "2023-09-22T12:48:25.779Z",
+        "updated_at": "2023-09-22T10:23:06.088Z"
+      },
+      {
+        "id": "164e6b45-0a61-40fa-ad17-621eb307b40d",
+        "created_at": "2023-09-21T19:35:30.232Z",
+        "updated_at": "2023-09-22T07:53:54.736Z"
+      },
+      {
+        "id": "eb202307-c817-45f9-ac30-c5ebab6abb03",
+        "created_at": "2023-09-22T12:56:06.460Z",
+        "updated_at": "2023-09-22T07:32:37.938Z"
+      },
+      {
+        "id": "4cc533a5-471f-49ef-b8e5-1aa38cb0c4cd",
+        "created_at": "2023-09-22T12:04:22.448Z",
+        "updated_at": "2023-09-21T20:24:46.398Z"
+      },
+      {
+        "id": "947039c1-4e63-4d7c-990d-9db4557329dc",
+        "created_at": "2023-09-22T03:17:37.973Z",
+        "updated_at": "2023-09-22T05:34:09.494Z"
+      }
+    ],
+    "service_status": [
+      {
+        "id": "64cc30a6-949a-49af-8768-dc37909fab20",
+        "created_at": "2023-09-21T23:34:38.791Z",
+        "updated_at": "2023-09-21T23:06:28.126Z"
+      },
+      {
+        "id": "f35d83f5-b537-4d4b-aade-47989669db55",
+        "created_at": "2023-09-22T11:53:33.048Z",
+        "updated_at": "2023-09-21T23:10:30.797Z"
+      },
+      {
+        "id": "d46d3f10-68d3-4341-bb4d-07698250f36e",
+        "created_at": "2023-09-21T20:17:20.366Z",
+        "updated_at": "2023-09-22T17:52:07.001Z"
+      },
+      {
+        "id": "d0376666-6b7f-4240-b8c2-7548675599ed",
+        "created_at": "2023-09-21T21:14:37.386Z",
+        "updated_at": "2023-09-22T04:00:11.095Z"
+      },
+      {
+        "id": "527d7ee1-e19a-410d-9118-44a7caa93c28",
+        "created_at": "2023-09-22T17:21:39.776Z",
+        "updated_at": "2023-09-22T09:20:37.516Z"
+      }
+    ],
+    "service_parts": [
+      {
+        "id": "cb4d1506-6cbc-4e7b-a140-5122d3150336",
+        "created_at": "2023-09-22T11:27:50.858Z",
+        "updated_at": "2023-09-21T21:29:18.383Z"
+      },
+      {
+        "id": "52eeb9bc-df37-44c4-b623-805e5833a921",
+        "created_at": "2023-09-22T15:25:13.030Z",
+        "updated_at": "2023-09-22T16:25:41.162Z"
+      },
+      {
+        "id": "4ed76c52-a471-4bd9-b1ce-2e6ce4d10c87",
+        "created_at": "2023-09-22T14:33:18.829Z",
+        "updated_at": "2023-09-21T21:50:48.946Z"
+      },
+      {
+        "id": "0d36f279-c57c-4b5e-9601-c47c73244a41",
+        "created_at": "2023-09-22T03:55:29.898Z",
+        "updated_at": "2023-09-22T02:42:03.188Z"
+      },
+      {
+        "id": "9755ff58-43c3-4446-9145-87c4af0451a1",
+        "created_at": "2023-09-22T15:55:16.484Z",
+        "updated_at": "2023-09-22T07:43:55.382Z"
+      }
+    ],
+    "service_location": [
+      {
+        "id": "2b11f0c1-1d21-42e5-a3e6-a134f5c97b71",
+        "created_at": "2023-09-22T18:15:24.744Z",
+        "updated_at": "2023-09-22T02:05:59.499Z"
+      },
+      {
+        "id": "670b069f-788d-48bf-a379-a38b7c3fa084",
+        "created_at": "2023-09-21T21:18:17.577Z",
+        "updated_at": "2023-09-21T20:43:34.786Z"
+      },
+      {
+        "id": "c61ab5e3-1ae1-4c85-9587-5a2376bdfe65",
+        "created_at": "2023-09-22T16:16:12.429Z",
+        "updated_at": "2023-09-21T20:10:49.283Z"
+      },
+      {
+        "id": "f91eb6b6-55b6-4e6a-88b8-db19627bcb4b",
+        "created_at": "2023-09-22T10:03:46.889Z",
+        "updated_at": "2023-09-22T07:48:13.948Z"
+      },
+      {
+        "id": "039dc1e2-7699-4f73-9df5-a32ac606687f",
+        "created_at": "2023-09-22T09:49:24.455Z",
+        "updated_at": "2023-09-22T18:20:36.764Z"
+      }
+    ],
+    "service_history": [
+      {
+        "id": "afbbe897-dfcd-4528-9ad0-0a57a205676d",
+        "created_at": "2023-09-21T20:19:09.734Z",
+        "updated_at": "2023-09-22T08:58:39.386Z"
+      },
+      {
+        "id": "26e4ab1f-8b8e-4635-b530-4409333e86f3",
+        "created_at": "2023-09-21T22:21:01.086Z",
+        "updated_at": "2023-09-22T18:45:10.841Z"
+      },
+      {
+        "id": "3b18be49-ba32-4008-bb4d-8658a5423d13",
+        "created_at": "2023-09-21T21:28:47.269Z",
+        "updated_at": "2023-09-22T17:33:46.936Z"
+      },
+      {
+        "id": "6fbb3ee4-995e-46b0-b0da-dc4003e2dc47",
+        "created_at": "2023-09-21T23:23:07.909Z",
+        "updated_at": "2023-09-22T12:48:42.640Z"
+      },
+      {
+        "id": "af445209-556f-4a80-8a55-7d7c1961e013",
+        "created_at": "2023-09-22T12:11:22.289Z",
+        "updated_at": "2023-09-22T03:58:47.439Z"
+      }
+    ],
+    "laptop_owner": [
+      {
+        "id": "4cbe1a9b-0fb7-4e2f-add9-0295160e03f7",
+        "created_at": "2023-09-22T02:31:16.648Z",
+        "updated_at": "2023-09-22T02:18:10.320Z"
+      },
+      {
+        "id": "10e02361-6811-46ca-bccd-4a406c2106fd",
+        "created_at": "2023-09-22T01:58:44.749Z",
+        "updated_at": "2023-09-22T10:20:37.708Z"
+      },
+      {
+        "id": "6a87e2ef-2e0a-4494-8434-a2618d3ff086",
+        "created_at": "2023-09-22T03:26:18.326Z",
+        "updated_at": "2023-09-22T10:49:54.200Z"
+      },
+      {
+        "id": "cebb5819-2b87-47ce-8c00-62031ac0a58a",
+        "created_at": "2023-09-22T18:00:48.370Z",
+        "updated_at": "2023-09-22T16:06:30.268Z"
+      },
+      {
+        "id": "8496b903-b4d4-46d1-afff-4ff9bbe373cc",
+        "created_at": "2023-09-21T20:06:58.492Z",
+        "updated_at": "2023-09-22T11:01:16.008Z"
+      }
+    ],
+    "laptop_model": [
+      {
+        "id": "c39e2e1d-fee2-4b1b-b015-dbb7b4c290a7",
+        "created_at": "2023-09-22T08:25:25.015Z",
+        "updated_at": "2023-09-22T00:43:15.102Z"
+      },
+      {
+        "id": "82d3f64e-83ca-4c48-9956-2f46ee2674dd",
+        "created_at": "2023-09-22T16:19:27.395Z",
+        "updated_at": "2023-09-21T23:39:48.730Z"
+      },
+      {
+        "id": "3211c3f9-9a0a-4c7f-8a47-b8b9c9124328",
+        "created_at": "2023-09-22T16:02:41.334Z",
+        "updated_at": "2023-09-22T18:36:49.157Z"
+      },
+      {
+        "id": "1d327382-ee07-4619-a83c-3ba19f349d43",
+        "created_at": "2023-09-22T11:11:43.730Z",
+        "updated_at": "2023-09-22T04:24:16.491Z"
+      },
+      {
+        "id": "4c2a21d6-76f3-400c-a9d9-3bd206a8d3e9",
+        "created_at": "2023-09-22T11:15:42.447Z",
+        "updated_at": "2023-09-22T03:42:20.015Z"
+      }
+    ],
+    "laptop_inventory": [
+      {
+        "id": "c2bc8924-797d-44d1-998f-b60709935a64",
+        "created_at": "2023-09-21T23:12:07.241Z",
+        "updated_at": "2023-09-22T12:54:56.981Z"
+      },
+      {
+        "id": "03d13090-b094-4d8c-8c3a-ed6d5e998b0c",
+        "created_at": "2023-09-22T16:06:40.630Z",
+        "updated_at": "2023-09-22T17:03:26.029Z"
+      },
+      {
+        "id": "89de68bd-7730-4411-ad08-4336d3ea40a8",
+        "created_at": "2023-09-22T06:05:38.878Z",
+        "updated_at": "2023-09-21T21:48:26.411Z"
+      },
+      {
+        "id": "43e614a6-9c04-48b9-80d6-af4d978ecb72",
+        "created_at": "2023-09-22T09:05:45.023Z",
+        "updated_at": "2023-09-22T16:51:14.101Z"
+      },
+      {
+        "id": "549934a0-5ffc-4aa1-b7b9-c2ab2c1c3c62",
+        "created_at": "2023-09-22T15:39:30.181Z",
+        "updated_at": "2023-09-21T23:47:04.575Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "f31f871e-be7c-408a-822f-98ecbc05f821",
+        "email": "Lucio_Kovacek73@roq.tech",
+        "firstName": "Marcia",
+        "lastName": "Kuvalis",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/2347708",
+        "tenantId": null
+      },
+      {
+        "reference": "2727eec4-f37d-4cde-b5f6-947e584f17af",
+        "email": "Bettye26@roq.tech",
+        "firstName": "Bethel",
+        "lastName": "Hilll",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51803782",
+        "tenantId": null
+      },
+      {
+        "reference": "5c4b55e7-6401-48e0-8021-e7dd310ed52e",
+        "email": "Sid42@roq.tech",
+        "firstName": "Ellen",
+        "lastName": "Lindgren",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/815.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "5bc293c9-f345-4dfa-9449-629c62a275af",
+        "email": "Brigitte_Morar@roq.tech",
+        "firstName": "Magali",
+        "lastName": "Miller",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/49530824",
+        "tenantId": null
+      },
+      {
+        "reference": "6bb9dda9-94c3-41b8-b98c-770ed769bb44",
+        "email": "Wendy.Zboncak2@roq.tech",
+        "firstName": "Kylie",
+        "lastName": "Mitchell",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/82665574",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "warranty_details": [
+      {
+        "id": "1406b3da-cc0a-450a-b4af-12fd48e529a7",
+        "created_at": "2023-09-22T08:56:47.269Z",
+        "updated_at": "2023-09-21T21:27:20.641Z"
+      },
+      {
+        "id": "e037776f-a718-4b8b-b522-157ef3b1ea47",
+        "created_at": "2023-09-21T20:08:52.973Z",
+        "updated_at": "2023-09-22T12:14:34.245Z"
+      },
+      {
+        "id": "c0ebf1d2-2502-4ae1-8008-207d1201f64d",
+        "created_at": "2023-09-22T09:14:57.091Z",
+        "updated_at": "2023-09-22T12:06:06.317Z"
+      },
+      {
+        "id": "1ffe9abc-7c39-4def-b6ea-024e6c09dbed",
+        "created_at": "2023-09-21T22:12:03.378Z",
+        "updated_at": "2023-09-22T13:10:03.596Z"
+      },
+      {
+        "id": "32cb37bb-52ac-457a-9074-c4db902cd421",
+        "created_at": "2023-09-22T14:35:21.285Z",
+        "updated_at": "2023-09-22T05:29:11.437Z"
+      }
+    ],
+    "service_type": [
+      {
+        "id": "b7328f69-7e32-43b8-bdc5-427849f55797",
+        "created_at": "2023-09-22T06:30:31.642Z",
+        "updated_at": "2023-09-21T22:05:38.038Z"
+      },
+      {
+        "id": "f9dc87c7-e17a-4b5a-9893-59369be133c9",
+        "created_at": "2023-09-21T23:25:14.912Z",
+        "updated_at": "2023-09-22T02:03:03.383Z"
+      },
+      {
+        "id": "bc431e3d-254c-4301-b5fc-8d8fc45c8f4c",
+        "created_at": "2023-09-22T05:50:00.823Z",
+        "updated_at": "2023-09-21T21:56:45.525Z"
+      },
+      {
+        "id": "65793197-9c0a-46d8-9d37-3677d3bb0486",
+        "created_at": "2023-09-22T13:27:00.951Z",
+        "updated_at": "2023-09-22T10:48:01.102Z"
+      },
+      {
+        "id": "118c5016-e218-4040-b610-9b74e38b0c5d",
+        "created_at": "2023-09-21T21:52:48.646Z",
+        "updated_at": "2023-09-22T02:11:38.493Z"
+      }
+    ],
+    "service_ticket": [
+      {
+        "id": "1350e166-a198-48b6-9169-141105b0dbf4",
+        "created_at": "2023-09-22T10:11:27.812Z",
+        "updated_at": "2023-09-22T11:48:02.161Z"
+      },
+      {
+        "id": "029f16d4-fcf5-4fd8-b589-49dcbf8fb52f",
+        "created_at": "2023-09-22T02:38:15.151Z",
+        "updated_at": "2023-09-22T05:19:40.929Z"
+      },
+      {
+        "id": "ae62012a-3b27-4e9d-ae94-49ae2b8a81fb",
+        "created_at": "2023-09-22T09:27:30.321Z",
+        "updated_at": "2023-09-22T02:45:36.738Z"
+      },
+      {
+        "id": "e3ea31e0-93b1-432e-b59f-c51bd144419b",
+        "created_at": "2023-09-22T01:24:58.490Z",
+        "updated_at": "2023-09-22T05:49:47.677Z"
+      },
+      {
+        "id": "fca3f84d-987a-45ed-bb95-24296e481a51",
+        "created_at": "2023-09-22T05:28:08.422Z",
+        "updated_at": "2023-09-22T05:53:15.270Z"
+      }
+    ],
+    "service_status": [
+      {
+        "id": "d5768f17-7561-4824-a0e2-c40016bf3333",
+        "created_at": "2023-09-22T10:15:14.640Z",
+        "updated_at": "2023-09-21T22:33:43.240Z"
+      },
+      {
+        "id": "738212a6-e277-4e4b-bc3a-e1256fac11c9",
+        "created_at": "2023-09-22T04:07:43.910Z",
+        "updated_at": "2023-09-22T03:56:29.503Z"
+      },
+      {
+        "id": "ba29772e-26fb-4b4e-b023-311c589463bf",
+        "created_at": "2023-09-22T17:44:34.339Z",
+        "updated_at": "2023-09-22T11:24:26.014Z"
+      },
+      {
+        "id": "84d6e2df-b2de-4d94-a8dc-c603328f5b14",
+        "created_at": "2023-09-22T10:50:29.122Z",
+        "updated_at": "2023-09-22T09:18:46.140Z"
+      },
+      {
+        "id": "a3f9f583-bca2-448b-8ede-8697ce64fd32",
+        "created_at": "2023-09-22T01:30:46.086Z",
+        "updated_at": "2023-09-22T10:28:06.087Z"
+      }
+    ],
+    "service_parts": [
+      {
+        "id": "c9be9070-8ec9-454c-8337-7aaebe143a50",
+        "created_at": "2023-09-22T07:57:47.140Z",
+        "updated_at": "2023-09-22T05:03:15.502Z"
+      },
+      {
+        "id": "ba69f512-5555-4bb7-92fb-ebbd3679bc60",
+        "created_at": "2023-09-22T11:42:33.592Z",
+        "updated_at": "2023-09-22T05:55:31.308Z"
+      },
+      {
+        "id": "2605c624-96e1-47db-86ac-308dfd79950f",
+        "created_at": "2023-09-22T02:08:07.874Z",
+        "updated_at": "2023-09-22T10:32:32.924Z"
+      },
+      {
+        "id": "d2327e2f-8254-4945-b44b-ae57ee7e3a85",
+        "created_at": "2023-09-22T15:48:32.369Z",
+        "updated_at": "2023-09-22T08:01:04.514Z"
+      },
+      {
+        "id": "9f41a693-ce4f-4f22-a1e3-c56509cdcb3b",
+        "created_at": "2023-09-22T16:27:53.569Z",
+        "updated_at": "2023-09-22T14:25:01.874Z"
+      }
+    ],
+    "service_location": [
+      {
+        "id": "2b122357-c8e0-4a44-940e-3a74f2049fde",
+        "created_at": "2023-09-22T09:44:28.477Z",
+        "updated_at": "2023-09-22T18:37:17.680Z"
+      },
+      {
+        "id": "d74b5c08-3af4-4b66-8f3d-c03597494e63",
+        "created_at": "2023-09-22T04:37:45.228Z",
+        "updated_at": "2023-09-22T15:35:12.115Z"
+      },
+      {
+        "id": "cfc104ef-39ae-4446-81ac-716ae7793d88",
+        "created_at": "2023-09-22T10:49:03.574Z",
+        "updated_at": "2023-09-21T20:19:48.091Z"
+      },
+      {
+        "id": "d8b690cc-b615-40a9-ba9d-6d222438b060",
+        "created_at": "2023-09-22T17:45:38.938Z",
+        "updated_at": "2023-09-22T06:33:31.656Z"
+      },
+      {
+        "id": "d2ae0c92-27b6-41fd-aa68-bb002e6261c1",
+        "created_at": "2023-09-22T03:12:53.926Z",
+        "updated_at": "2023-09-21T20:23:33.252Z"
+      }
+    ],
+    "service_history": [
+      {
+        "id": "abb02c14-a874-4b41-99bf-5f340316b272",
+        "created_at": "2023-09-22T15:30:08.614Z",
+        "updated_at": "2023-09-22T12:30:05.782Z"
+      },
+      {
+        "id": "aee8558d-9734-45f0-be98-9b3b884e4012",
+        "created_at": "2023-09-22T11:00:10.692Z",
+        "updated_at": "2023-09-22T01:52:16.185Z"
+      },
+      {
+        "id": "77721d8d-82f1-4d2e-bdc1-af390903dcfd",
+        "created_at": "2023-09-21T22:42:24.094Z",
+        "updated_at": "2023-09-22T17:38:24.125Z"
+      },
+      {
+        "id": "b9638b84-ee60-4788-994d-ec7a66852ec0",
+        "created_at": "2023-09-22T09:10:49.382Z",
+        "updated_at": "2023-09-21T20:45:16.586Z"
+      },
+      {
+        "id": "9189f40c-4a75-406e-bac4-566ac529a87f",
+        "created_at": "2023-09-22T12:38:58.443Z",
+        "updated_at": "2023-09-22T15:50:15.736Z"
+      }
+    ],
+    "laptop_owner": [
+      {
+        "id": "d5e28112-6cca-4156-b54a-c4d2cf23a1de",
+        "created_at": "2023-09-21T20:58:23.655Z",
+        "updated_at": "2023-09-22T06:45:23.675Z"
+      },
+      {
+        "id": "41a31a88-7183-4081-ab88-6295bdfbd158",
+        "created_at": "2023-09-22T02:47:22.021Z",
+        "updated_at": "2023-09-22T07:08:16.303Z"
+      },
+      {
+        "id": "7637a38b-2a2b-4f9a-b739-ce25525434a0",
+        "created_at": "2023-09-22T05:35:14.981Z",
+        "updated_at": "2023-09-22T06:32:16.669Z"
+      },
+      {
+        "id": "6459e17f-91fb-4a38-b633-740196ac8c5a",
+        "created_at": "2023-09-22T08:40:41.607Z",
+        "updated_at": "2023-09-21T21:54:51.745Z"
+      },
+      {
+        "id": "5de7c7f4-54d3-4a25-9fc8-df084f664630",
+        "created_at": "2023-09-21T20:35:19.476Z",
+        "updated_at": "2023-09-22T10:02:31.784Z"
+      }
+    ],
+    "laptop_model": [
+      {
+        "id": "5777b1b2-a380-4306-81c4-f6080f01252b",
+        "created_at": "2023-09-22T13:33:11.645Z",
+        "updated_at": "2023-09-21T23:15:27.068Z"
+      },
+      {
+        "id": "4e13339f-d406-49a5-a7fd-d0b9ff800e39",
+        "created_at": "2023-09-22T12:44:49.129Z",
+        "updated_at": "2023-09-22T18:02:37.384Z"
+      },
+      {
+        "id": "98fd5b10-fc00-4492-9b87-16fec44b17c2",
+        "created_at": "2023-09-21T23:15:55.548Z",
+        "updated_at": "2023-09-22T06:20:58.440Z"
+      },
+      {
+        "id": "987e6802-cf60-49b5-bc2f-0ca4eaeef0e8",
+        "created_at": "2023-09-22T18:45:36.378Z",
+        "updated_at": "2023-09-22T10:06:22.232Z"
+      },
+      {
+        "id": "3c31cec6-6f62-4692-88f0-a2422ff1167d",
+        "created_at": "2023-09-21T20:56:00.558Z",
+        "updated_at": "2023-09-22T16:25:23.392Z"
+      }
+    ],
+    "laptop_inventory": [
+      {
+        "id": "ee8eb199-3f76-4393-9dc9-6c9e60af46c8",
+        "created_at": "2023-09-22T06:27:46.917Z",
+        "updated_at": "2023-09-22T13:18:26.374Z"
+      },
+      {
+        "id": "f560ad87-b922-4dbb-b63e-a1ef461bc6fe",
+        "created_at": "2023-09-22T04:35:49.694Z",
+        "updated_at": "2023-09-22T17:42:38.540Z"
+      },
+      {
+        "id": "b17c35a0-2487-4707-a8bb-c7421eef437e",
+        "created_at": "2023-09-21T21:34:43.925Z",
+        "updated_at": "2023-09-22T02:44:59.911Z"
+      },
+      {
+        "id": "2c42f768-013d-4e4e-8062-5dc06e04c227",
+        "created_at": "2023-09-22T12:30:54.997Z",
+        "updated_at": "2023-09-22T02:00:45.816Z"
+      },
+      {
+        "id": "2f7ceaf0-cf3f-4979-9891-dd1a5f0298fe",
+        "created_at": "2023-09-22T14:09:08.384Z",
+        "updated_at": "2023-09-22T09:38:51.950Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "9022cbaf-8d0b-4cf4-bc08-1f882b80d446",
+        "email": "Nat.Grady@roq.tech",
+        "firstName": "Johathan",
+        "lastName": "Mitchell",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/79307284",
+        "tenantId": null
+      },
+      {
+        "reference": "dac63ace-22e8-45c7-a41c-ba47e50bb7f4",
+        "email": "Harmony_Treutel@roq.tech",
+        "firstName": "Mitchell",
+        "lastName": "Johns",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/85167470",
+        "tenantId": null
+      },
+      {
+        "reference": "95ecbc64-ca4e-46e0-89db-80b23b6e2665",
+        "email": "Elza.Schuppe@roq.tech",
+        "firstName": "Keon",
+        "lastName": "Emmerich",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/79408549",
+        "tenantId": null
+      },
+      {
+        "reference": "da9e3468-d0e9-460a-ae0b-d43d52db3ed8",
+        "email": "Cali5@roq.tech",
+        "firstName": "Yvonne",
+        "lastName": "Homenick",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/83873983",
+        "tenantId": null
+      },
+      {
+        "reference": "019df92d-62ff-4951-86d6-3ae48d6eedf6",
+        "email": "Moshe.Kiehn6@roq.tech",
+        "firstName": "Shaun",
+        "lastName": "Mraz",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51683570",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "warranty_details": [
+      {
+        "id": "11c967aa-7d9d-4d5b-9f46-32e235e662ce",
+        "created_at": "2023-09-22T01:07:27.721Z",
+        "updated_at": "2023-09-22T10:41:54.945Z"
+      },
+      {
+        "id": "fa9750a7-a2cd-490b-bdaa-f89c50a3a3ad",
+        "created_at": "2023-09-22T08:15:53.328Z",
+        "updated_at": "2023-09-22T09:03:13.352Z"
+      },
+      {
+        "id": "7680c2a8-7872-4bf6-b141-70f9c0cd989e",
+        "created_at": "2023-09-22T00:40:24.984Z",
+        "updated_at": "2023-09-22T12:20:40.491Z"
+      },
+      {
+        "id": "cd3357c7-6169-4399-8830-f608e272b5a6",
+        "created_at": "2023-09-22T18:12:41.762Z",
+        "updated_at": "2023-09-22T18:08:18.493Z"
+      },
+      {
+        "id": "271e4aff-0896-42f1-813d-f522bbaea377",
+        "created_at": "2023-09-22T04:05:34.545Z",
+        "updated_at": "2023-09-22T00:21:07.431Z"
+      }
+    ],
+    "service_type": [
+      {
+        "id": "24b73099-6685-4caf-8c60-8124534c62ec",
+        "created_at": "2023-09-22T10:16:48.811Z",
+        "updated_at": "2023-09-22T12:33:43.241Z"
+      },
+      {
+        "id": "03277064-d4d4-4f95-9ec8-d552b03b5ce6",
+        "created_at": "2023-09-22T08:49:22.016Z",
+        "updated_at": "2023-09-22T10:33:53.739Z"
+      },
+      {
+        "id": "30730f5a-bf7e-4fed-ac62-9118c055a755",
+        "created_at": "2023-09-22T07:54:11.826Z",
+        "updated_at": "2023-09-22T16:44:27.041Z"
+      },
+      {
+        "id": "b2f363a6-eae5-4065-a7ed-2c4555a8074a",
+        "created_at": "2023-09-22T17:39:04.940Z",
+        "updated_at": "2023-09-22T07:29:19.900Z"
+      },
+      {
+        "id": "4c0fb902-f00b-4f16-9d22-d73eeb76386e",
+        "created_at": "2023-09-22T14:50:42.681Z",
+        "updated_at": "2023-09-22T04:42:56.750Z"
+      }
+    ],
+    "service_ticket": [
+      {
+        "id": "f011e1f7-92d7-4de5-b2dd-4218c148ec69",
+        "created_at": "2023-09-22T12:18:36.255Z",
+        "updated_at": "2023-09-21T20:01:35.596Z"
+      },
+      {
+        "id": "3c40dafd-642c-47df-8312-2493c6ba7c64",
+        "created_at": "2023-09-22T18:07:55.165Z",
+        "updated_at": "2023-09-22T13:52:23.256Z"
+      },
+      {
+        "id": "61a2020e-16b1-4a17-9048-e3cae499c1eb",
+        "created_at": "2023-09-21T21:30:25.831Z",
+        "updated_at": "2023-09-21T23:06:50.505Z"
+      },
+      {
+        "id": "978557ed-9b85-4829-a683-78b8d8caec83",
+        "created_at": "2023-09-21T22:06:58.206Z",
+        "updated_at": "2023-09-21T21:10:47.901Z"
+      },
+      {
+        "id": "8507bb90-9d27-4653-98fb-a56a69ac6ac3",
+        "created_at": "2023-09-22T00:20:21.943Z",
+        "updated_at": "2023-09-21T19:24:11.103Z"
+      }
+    ],
+    "service_status": [
+      {
+        "id": "367c145e-c390-4214-b992-91b905f54e66",
+        "created_at": "2023-09-22T17:58:15.610Z",
+        "updated_at": "2023-09-22T09:34:07.589Z"
+      },
+      {
+        "id": "63d6c97c-30b7-4a32-825c-0894e96ae5a8",
+        "created_at": "2023-09-21T22:04:49.016Z",
+        "updated_at": "2023-09-22T07:18:39.131Z"
+      },
+      {
+        "id": "d54b8b20-d819-489d-b69b-7fe24c185b3a",
+        "created_at": "2023-09-22T06:18:53.046Z",
+        "updated_at": "2023-09-22T17:19:08.533Z"
+      },
+      {
+        "id": "7e97e99b-658f-4ca4-bac8-86ba58860dd5",
+        "created_at": "2023-09-22T18:07:43.995Z",
+        "updated_at": "2023-09-22T17:57:10.899Z"
+      },
+      {
+        "id": "31191075-caf7-4cd9-b938-d14ae05d32ac",
+        "created_at": "2023-09-22T18:33:43.487Z",
+        "updated_at": "2023-09-22T08:56:26.955Z"
+      }
+    ],
+    "service_parts": [
+      {
+        "id": "75b6725c-5420-4788-807f-2f04ebe1772d",
+        "created_at": "2023-09-22T03:14:33.162Z",
+        "updated_at": "2023-09-22T05:16:35.133Z"
+      },
+      {
+        "id": "b3031884-b7e1-4631-a837-91688ef06ea8",
+        "created_at": "2023-09-22T14:28:07.407Z",
+        "updated_at": "2023-09-22T02:01:42.151Z"
+      },
+      {
+        "id": "8147314f-b2ed-4153-9594-6696eed9339f",
+        "created_at": "2023-09-22T09:29:41.213Z",
+        "updated_at": "2023-09-22T06:18:44.014Z"
+      },
+      {
+        "id": "c3dee782-0f8c-4656-aae5-ca37a7c7793b",
+        "created_at": "2023-09-22T08:10:10.079Z",
+        "updated_at": "2023-09-22T16:58:42.072Z"
+      },
+      {
+        "id": "53d7b374-6389-48ef-9563-df3fd3d5b25c",
+        "created_at": "2023-09-21T20:20:20.202Z",
+        "updated_at": "2023-09-22T13:14:44.978Z"
+      }
+    ],
+    "service_location": [
+      {
+        "id": "5f2bc60b-b048-441a-9db2-6a18e207bed7",
+        "created_at": "2023-09-22T15:56:56.378Z",
+        "updated_at": "2023-09-22T06:19:08.537Z"
+      },
+      {
+        "id": "b3daf1f8-6318-4fde-8c41-2c12ed789029",
+        "created_at": "2023-09-22T15:24:10.874Z",
+        "updated_at": "2023-09-21T19:18:54.227Z"
+      },
+      {
+        "id": "64836d60-759e-4fef-a3bc-1824e7495735",
+        "created_at": "2023-09-22T09:13:38.056Z",
+        "updated_at": "2023-09-21T21:40:32.327Z"
+      },
+      {
+        "id": "7277a070-70ce-41ad-a95f-8f10fe589471",
+        "created_at": "2023-09-22T17:20:11.400Z",
+        "updated_at": "2023-09-22T02:58:20.511Z"
+      },
+      {
+        "id": "b7f97cfe-aa08-49ac-b6ff-0a41ae53adac",
+        "created_at": "2023-09-22T11:16:29.216Z",
+        "updated_at": "2023-09-21T21:01:55.741Z"
+      }
+    ],
+    "service_history": [
+      {
+        "id": "a5172928-7353-42b3-b04d-ed74cb7a0cdc",
+        "created_at": "2023-09-22T01:41:02.951Z",
+        "updated_at": "2023-09-22T04:23:10.498Z"
+      },
+      {
+        "id": "0b9395e7-06d0-4f05-917b-38df5c072f7c",
+        "created_at": "2023-09-21T19:48:51.003Z",
+        "updated_at": "2023-09-22T18:16:36.659Z"
+      },
+      {
+        "id": "98574dbf-8122-466a-8635-d85cc2ff6625",
+        "created_at": "2023-09-22T00:53:20.729Z",
+        "updated_at": "2023-09-22T05:49:40.091Z"
+      },
+      {
+        "id": "0a3c96bb-effe-49cc-a746-4445d1eb8aba",
+        "created_at": "2023-09-22T11:40:12.559Z",
+        "updated_at": "2023-09-22T07:05:17.620Z"
+      },
+      {
+        "id": "77ebcba0-b6f3-4fae-9b24-34dca1b75bbb",
+        "created_at": "2023-09-22T04:13:58.858Z",
+        "updated_at": "2023-09-22T06:40:28.737Z"
+      }
+    ],
+    "laptop_owner": [
+      {
+        "id": "a1b833b6-49ae-4811-b6dd-ceefa239de48",
+        "created_at": "2023-09-22T02:46:31.226Z",
+        "updated_at": "2023-09-22T18:12:17.957Z"
+      },
+      {
+        "id": "857455d9-960c-4fd4-83b6-7f191b7372ff",
+        "created_at": "2023-09-22T07:44:09.463Z",
+        "updated_at": "2023-09-22T11:58:15.387Z"
+      },
+      {
+        "id": "588eb9e3-204c-4d31-a623-bd3295231b4b",
+        "created_at": "2023-09-21T21:34:40.536Z",
+        "updated_at": "2023-09-22T18:40:41.480Z"
+      },
+      {
+        "id": "f37ef14a-d226-473c-a514-33562dfdb0df",
+        "created_at": "2023-09-21T22:26:59.560Z",
+        "updated_at": "2023-09-22T06:11:09.543Z"
+      },
+      {
+        "id": "132e6326-a6f7-4c8a-8f87-6a5ca1dcd1fe",
+        "created_at": "2023-09-21T23:41:13.583Z",
+        "updated_at": "2023-09-22T07:59:56.929Z"
+      }
+    ],
+    "laptop_model": [
+      {
+        "id": "570cc58a-4e71-449f-be18-6817517260fb",
+        "created_at": "2023-09-22T18:15:28.958Z",
+        "updated_at": "2023-09-22T07:20:11.267Z"
+      },
+      {
+        "id": "4b68b604-ec49-46f2-9e72-af0cad8dd826",
+        "created_at": "2023-09-21T21:08:40.455Z",
+        "updated_at": "2023-09-22T04:47:33.150Z"
+      },
+      {
+        "id": "f16b5e09-717f-4d4a-bba9-9d6c168527da",
+        "created_at": "2023-09-22T06:17:49.934Z",
+        "updated_at": "2023-09-22T08:33:14.403Z"
+      },
+      {
+        "id": "957888da-effc-4d67-8527-dd00f8da8390",
+        "created_at": "2023-09-22T00:02:55.722Z",
+        "updated_at": "2023-09-22T00:50:45.715Z"
+      },
+      {
+        "id": "0b073477-a7a4-440a-be99-63ecd4b52b6d",
+        "created_at": "2023-09-22T00:15:45.253Z",
+        "updated_at": "2023-09-21T23:03:39.298Z"
+      }
+    ],
+    "laptop_inventory": [
+      {
+        "id": "24fec900-b84d-4ea4-a68d-0b72a88ccf6a",
+        "created_at": "2023-09-22T04:46:06.983Z",
+        "updated_at": "2023-09-22T18:25:49.211Z"
+      },
+      {
+        "id": "b3894b69-5d11-4b5a-afd8-7fa5f65912f9",
+        "created_at": "2023-09-21T19:36:17.960Z",
+        "updated_at": "2023-09-21T19:58:59.095Z"
+      },
+      {
+        "id": "9dfbacde-53b8-4d38-aab0-55f94c10f928",
+        "created_at": "2023-09-21T23:52:45.419Z",
+        "updated_at": "2023-09-21T21:23:20.917Z"
+      },
+      {
+        "id": "48b802b0-5f84-46fd-8c7e-1eba601ce1d0",
+        "created_at": "2023-09-22T03:55:26.178Z",
+        "updated_at": "2023-09-22T16:35:38.262Z"
+      },
+      {
+        "id": "e5ac7c23-ae31-460e-9c7b-c305e19ec9a4",
+        "created_at": "2023-09-22T17:43:47.064Z",
+        "updated_at": "2023-09-21T23:07:01.831Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "e6d9d4b4-7e29-40cb-886a-83b514d03c37",
+        "email": "Clyde_Adams40@roq.tech",
+        "firstName": "Rex",
+        "lastName": "Hettinger",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/43226082",
+        "tenantId": null
+      },
+      {
+        "reference": "cb960ecd-3ce6-41bd-adc5-25dec3fae6bd",
+        "email": "Mavis.Klein@roq.tech",
+        "firstName": "Dereck",
+        "lastName": "Kris",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/43956245",
+        "tenantId": null
+      },
+      {
+        "reference": "7bc145aa-3067-4db8-ab94-3bfa474e70d0",
+        "email": "Bertram.Paucek@roq.tech",
+        "firstName": "Dedric",
+        "lastName": "Corkery",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/891.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "49120d7b-fe1a-4a24-9a49-21d72ea295b2",
+        "email": "Stewart.Ferry4@roq.tech",
+        "firstName": "Caden",
+        "lastName": "McKenzie",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/278.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "835cbcf8-070b-4342-991e-9904dfc50eab",
+        "email": "Jaren.Feil@roq.tech",
+        "firstName": "Claudine",
+        "lastName": "Hand-McKenzie",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/29458937",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "warranty_details": [
+      {
+        "id": "87db9390-cd78-4a12-9fdd-a43fb8864ba8",
+        "created_at": "2023-09-22T15:30:05.111Z",
+        "updated_at": "2023-09-21T20:50:10.659Z"
+      },
+      {
+        "id": "16ac1292-d9b2-43ec-bdde-6b055ce0613a",
+        "created_at": "2023-09-21T23:53:46.457Z",
+        "updated_at": "2023-09-22T17:19:50.397Z"
+      },
+      {
+        "id": "08dc5f6e-396b-42da-8ca7-f5f53263fc96",
+        "created_at": "2023-09-22T05:26:05.743Z",
+        "updated_at": "2023-09-21T19:06:29.026Z"
+      },
+      {
+        "id": "e55c3fbd-16c9-4ef4-b076-79a9a0b16ac3",
+        "created_at": "2023-09-21T19:20:53.439Z",
+        "updated_at": "2023-09-21T23:45:36.909Z"
+      },
+      {
+        "id": "3f1e5a28-1df1-4bdd-85bc-0a187c12fef3",
+        "created_at": "2023-09-22T16:27:10.457Z",
+        "updated_at": "2023-09-22T07:06:59.400Z"
+      }
+    ],
+    "service_type": [
+      {
+        "id": "c4c51510-5619-4013-a39a-1bf1bd3d517a",
+        "created_at": "2023-09-22T08:28:23.589Z",
+        "updated_at": "2023-09-22T04:30:03.900Z"
+      },
+      {
+        "id": "b9917451-5042-4587-9920-fa1ac953f6df",
+        "created_at": "2023-09-22T18:41:30.974Z",
+        "updated_at": "2023-09-21T20:30:27.817Z"
+      },
+      {
+        "id": "6cf25b52-a217-40f2-a4a4-842fa11bc044",
+        "created_at": "2023-09-22T05:22:08.803Z",
+        "updated_at": "2023-09-22T10:10:52.189Z"
+      },
+      {
+        "id": "081388e8-e41e-4462-954e-efe38785684a",
+        "created_at": "2023-09-22T12:46:56.625Z",
+        "updated_at": "2023-09-22T18:15:16.369Z"
+      },
+      {
+        "id": "8caba351-4849-47f1-a538-9d92fff65c52",
+        "created_at": "2023-09-22T05:28:59.399Z",
+        "updated_at": "2023-09-21T20:17:21.248Z"
+      }
+    ],
+    "service_ticket": [
+      {
+        "id": "b8618c92-30ae-44d4-a0bf-e75c08c9cf76",
+        "created_at": "2023-09-22T12:40:18.374Z",
+        "updated_at": "2023-09-22T04:14:13.079Z"
+      },
+      {
+        "id": "c92958a8-9133-4609-a984-82ffe2817926",
+        "created_at": "2023-09-22T05:18:16.391Z",
+        "updated_at": "2023-09-22T11:58:53.454Z"
+      },
+      {
+        "id": "600ec8f7-c566-4f22-bf80-9139df11da6f",
+        "created_at": "2023-09-21T21:18:33.576Z",
+        "updated_at": "2023-09-22T04:20:40.563Z"
+      },
+      {
+        "id": "2c62c915-98c2-4dd2-8bf3-2a7677c1b84b",
+        "created_at": "2023-09-22T11:38:40.825Z",
+        "updated_at": "2023-09-22T13:08:06.199Z"
+      },
+      {
+        "id": "61f0662f-7087-452f-aa87-b52ef1447eb3",
+        "created_at": "2023-09-22T08:16:01.101Z",
+        "updated_at": "2023-09-22T12:39:10.236Z"
+      }
+    ],
+    "service_status": [
+      {
+        "id": "293577d6-8385-4d84-af41-1916027fa2aa",
+        "created_at": "2023-09-22T16:14:22.685Z",
+        "updated_at": "2023-09-21T21:30:17.908Z"
+      },
+      {
+        "id": "7a75469e-52b8-4856-bddc-1df682ccec38",
+        "created_at": "2023-09-22T17:58:15.476Z",
+        "updated_at": "2023-09-22T08:16:09.422Z"
+      },
+      {
+        "id": "23e6ff3f-1bf3-4ae1-a0c5-2d79b16d218a",
+        "created_at": "2023-09-22T17:36:20.493Z",
+        "updated_at": "2023-09-22T16:20:37.412Z"
+      },
+      {
+        "id": "0cd92e36-5a17-47f3-820f-71b122d6b45d",
+        "created_at": "2023-09-21T23:06:14.875Z",
+        "updated_at": "2023-09-22T16:08:40.324Z"
+      },
+      {
+        "id": "db1236ed-372d-4abc-bc49-d901eb7e16b7",
+        "created_at": "2023-09-22T12:40:58.404Z",
+        "updated_at": "2023-09-22T00:19:03.638Z"
+      }
+    ],
+    "service_parts": [
+      {
+        "id": "65998a25-42c8-4df9-9e76-c469936e825d",
+        "created_at": "2023-09-21T19:44:24.090Z",
+        "updated_at": "2023-09-22T10:12:16.072Z"
+      },
+      {
+        "id": "3ebbb66d-9914-443d-bf67-ba2d0869bd28",
+        "created_at": "2023-09-22T14:56:15.211Z",
+        "updated_at": "2023-09-22T03:13:27.282Z"
+      },
+      {
+        "id": "27df3d0b-c44c-47ee-9b4c-6d0d226372a9",
+        "created_at": "2023-09-21T22:05:16.122Z",
+        "updated_at": "2023-09-21T20:45:18.582Z"
+      },
+      {
+        "id": "70537a7c-828e-437c-8db7-ac99f4a2340d",
+        "created_at": "2023-09-21T20:21:14.737Z",
+        "updated_at": "2023-09-22T18:43:07.745Z"
+      },
+      {
+        "id": "559193b7-511f-4677-8558-e00d73690f22",
+        "created_at": "2023-09-22T04:28:09.442Z",
+        "updated_at": "2023-09-22T04:11:44.381Z"
+      }
+    ],
+    "service_location": [
+      {
+        "id": "d0866c9c-70cf-4b1f-8c4c-55aeff828d9e",
+        "created_at": "2023-09-22T00:19:33.733Z",
+        "updated_at": "2023-09-22T05:23:43.897Z"
+      },
+      {
+        "id": "9c129333-9e26-4f95-9d2c-defb6616fb4b",
+        "created_at": "2023-09-22T04:25:06.696Z",
+        "updated_at": "2023-09-22T09:27:18.685Z"
+      },
+      {
+        "id": "439f649f-942b-4bd4-9e6b-5263a6e21d9a",
+        "created_at": "2023-09-22T04:15:16.356Z",
+        "updated_at": "2023-09-22T12:12:56.872Z"
+      },
+      {
+        "id": "5300012e-ddc4-43c2-a134-6848cd0108cf",
+        "created_at": "2023-09-22T04:28:54.838Z",
+        "updated_at": "2023-09-22T02:58:43.330Z"
+      },
+      {
+        "id": "37229197-5240-4ba5-8dc3-2a7a069db3d3",
+        "created_at": "2023-09-22T02:47:26.852Z",
+        "updated_at": "2023-09-21T20:15:58.224Z"
+      }
+    ],
+    "service_history": [
+      {
+        "id": "0904499d-87e8-47f1-8319-569843c6bea5",
+        "created_at": "2023-09-22T01:49:08.306Z",
+        "updated_at": "2023-09-22T17:15:03.393Z"
+      },
+      {
+        "id": "a6fe6608-eff0-4607-88fb-72503545f51e",
+        "created_at": "2023-09-22T04:12:21.712Z",
+        "updated_at": "2023-09-21T19:46:57.261Z"
+      },
+      {
+        "id": "17e634e2-0050-4c4a-ad4b-c35c1792c7f0",
+        "created_at": "2023-09-22T07:00:28.210Z",
+        "updated_at": "2023-09-22T10:14:36.469Z"
+      },
+      {
+        "id": "11032113-aa13-405c-8375-3770b02fd6a8",
+        "created_at": "2023-09-22T15:03:25.169Z",
+        "updated_at": "2023-09-22T13:23:18.847Z"
+      },
+      {
+        "id": "65c51aa8-5fd9-4c05-acca-e0eab50bede2",
+        "created_at": "2023-09-22T06:45:28.257Z",
+        "updated_at": "2023-09-21T20:37:37.135Z"
+      }
+    ],
+    "laptop_owner": [
+      {
+        "id": "5671caeb-add8-43de-9031-8734f8459e7c",
+        "created_at": "2023-09-21T22:07:12.033Z",
+        "updated_at": "2023-09-22T03:28:20.573Z"
+      },
+      {
+        "id": "f015be47-6af9-4111-9b34-b9c2194b1795",
+        "created_at": "2023-09-22T02:29:26.187Z",
+        "updated_at": "2023-09-21T19:21:26.115Z"
+      },
+      {
+        "id": "5d4bc3d1-dc2c-4014-a5bd-4124ed3eec36",
+        "created_at": "2023-09-22T16:43:17.337Z",
+        "updated_at": "2023-09-22T08:05:02.979Z"
+      },
+      {
+        "id": "99700ec4-ebe4-4acb-a135-7bcf0c39aa27",
+        "created_at": "2023-09-22T13:51:28.817Z",
+        "updated_at": "2023-09-22T13:09:34.067Z"
+      },
+      {
+        "id": "e276652c-a289-47a3-9bfd-b8db13d0236a",
+        "created_at": "2023-09-22T14:56:11.766Z",
+        "updated_at": "2023-09-22T15:47:51.800Z"
+      }
+    ],
+    "laptop_model": [
+      {
+        "id": "4304d8fe-9d08-40db-8f4d-261fc4fedde3",
+        "created_at": "2023-09-22T07:40:30.853Z",
+        "updated_at": "2023-09-22T08:55:27.191Z"
+      },
+      {
+        "id": "498ec105-374c-4431-951c-353c459bb89d",
+        "created_at": "2023-09-22T09:54:50.864Z",
+        "updated_at": "2023-09-22T09:07:17.588Z"
+      },
+      {
+        "id": "1f7fae2f-9bcb-44e4-9ce3-09097882484d",
+        "created_at": "2023-09-22T14:46:10.168Z",
+        "updated_at": "2023-09-22T08:24:52.261Z"
+      },
+      {
+        "id": "7b0f8bd1-ecc4-4bc7-b623-edb61c48b04f",
+        "created_at": "2023-09-22T06:31:38.983Z",
+        "updated_at": "2023-09-22T13:10:27.675Z"
+      },
+      {
+        "id": "92ed7034-bf34-492b-aff4-f553ea873d78",
+        "created_at": "2023-09-22T01:39:43.374Z",
+        "updated_at": "2023-09-22T08:39:45.336Z"
+      }
+    ],
+    "laptop_inventory": [
+      {
+        "id": "79ff989e-7132-439e-b49c-a6358595dff4",
+        "created_at": "2023-09-22T09:58:53.220Z",
+        "updated_at": "2023-09-22T08:46:55.801Z"
+      },
+      {
+        "id": "a2e1c4b2-ef8e-4704-95bc-804fb315526a",
+        "created_at": "2023-09-22T10:34:31.616Z",
+        "updated_at": "2023-09-21T20:21:48.386Z"
+      },
+      {
+        "id": "8fe40a95-ac72-465b-858f-4e6eeb2aefe3",
+        "created_at": "2023-09-22T16:30:11.317Z",
+        "updated_at": "2023-09-22T09:13:00.546Z"
+      },
+      {
+        "id": "f1e8c6fa-90ba-4365-8331-973d66c11bae",
+        "created_at": "2023-09-21T21:48:40.476Z",
+        "updated_at": "2023-09-22T09:30:06.695Z"
+      },
+      {
+        "id": "f1d5c34f-5cc5-4897-84b9-99d56b6bb0df",
+        "created_at": "2023-09-22T04:42:46.306Z",
+        "updated_at": "2023-09-22T04:02:54.582Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "d6400a3c-f6aa-4db5-be81-17dd561f900d",
+        "email": "Ludwig.Erdman98@roq.tech",
+        "firstName": "Isobel",
+        "lastName": "Huels",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/75527299",
+        "tenantId": null
+      },
+      {
+        "reference": "a1aae63e-ffd6-4788-a5d7-f9b862e8da71",
+        "email": "Judd.Koss28@roq.tech",
+        "firstName": "Emma",
+        "lastName": "Huels",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/17210955",
+        "tenantId": null
+      },
+      {
+        "reference": "e68c0304-f642-4117-960a-9175844b2fd6",
+        "email": "Denis.Baumbach61@roq.tech",
+        "firstName": "Uriah",
+        "lastName": "Hand",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/746.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "e7256130-f7c8-4e9f-a3f9-d2ec68f4ece4",
+        "email": "Grayce72@roq.tech",
+        "firstName": "Margarita",
+        "lastName": "McDermott",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/21161015",
+        "tenantId": null
+      },
+      {
+        "reference": "88fa01b7-3469-497e-9b6b-f32e39ee3558",
+        "email": "Sophie_Jacobs75@roq.tech",
+        "firstName": "Vergie",
+        "lastName": "Medhurst",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/81732140",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "warranty_details": [
+      {
+        "id": "988b4f39-6fe0-4226-b18e-af78ebaac125",
+        "created_at": "2023-09-21T23:05:48.118Z",
+        "updated_at": "2023-09-22T10:38:04.767Z"
+      },
+      {
+        "id": "cee09e6d-d837-4b3d-ba86-eef1e19e18fa",
+        "created_at": "2023-09-21T21:51:53.942Z",
+        "updated_at": "2023-09-22T08:18:01.140Z"
+      },
+      {
+        "id": "e21bddf5-8f47-4d43-83e5-aea068d0820c",
+        "created_at": "2023-09-22T17:18:51.159Z",
+        "updated_at": "2023-09-22T07:44:32.857Z"
+      },
+      {
+        "id": "81d0a8f2-0d80-4830-8677-9534641793f5",
+        "created_at": "2023-09-22T06:55:16.892Z",
+        "updated_at": "2023-09-21T19:26:26.402Z"
+      },
+      {
+        "id": "0436ad81-e901-4f99-9cd0-d6bfa9f6ca9f",
+        "created_at": "2023-09-21T20:55:09.698Z",
+        "updated_at": "2023-09-21T22:29:41.783Z"
+      }
+    ],
+    "service_type": [
+      {
+        "id": "dcf059a8-ed12-4608-9739-d861e1d9e23e",
+        "created_at": "2023-09-22T11:52:18.422Z",
+        "updated_at": "2023-09-21T23:21:44.258Z"
+      },
+      {
+        "id": "e79acddc-40f9-4d14-9297-e79ba76ed0cb",
+        "created_at": "2023-09-21T19:44:35.377Z",
+        "updated_at": "2023-09-22T03:14:11.516Z"
+      },
+      {
+        "id": "c062c447-dd9b-4f16-a139-7de4d50eabd1",
+        "created_at": "2023-09-22T16:29:54.442Z",
+        "updated_at": "2023-09-22T13:35:33.403Z"
+      },
+      {
+        "id": "2a318ac5-8fb2-40d7-a976-81cb2d8287b2",
+        "created_at": "2023-09-22T13:29:49.559Z",
+        "updated_at": "2023-09-22T07:43:08.296Z"
+      },
+      {
+        "id": "24904ae1-1931-4134-bed2-fe8d86d492ac",
+        "created_at": "2023-09-21T23:43:10.420Z",
+        "updated_at": "2023-09-22T08:02:05.925Z"
+      }
+    ],
+    "service_ticket": [
+      {
+        "id": "b11c01dd-c998-4465-aac8-67f77f6f0e0d",
+        "created_at": "2023-09-22T08:50:36.105Z",
+        "updated_at": "2023-09-22T03:56:47.998Z"
+      },
+      {
+        "id": "0484ce72-9d41-4f63-afc5-38af89a4efcf",
+        "created_at": "2023-09-22T03:46:16.476Z",
+        "updated_at": "2023-09-21T21:45:01.635Z"
+      },
+      {
+        "id": "66536ebc-678b-4e93-8b74-cf9ba604592f",
+        "created_at": "2023-09-22T00:53:23.734Z",
+        "updated_at": "2023-09-22T08:32:49.011Z"
+      },
+      {
+        "id": "8ae34837-ddab-48b3-a6ae-2ed1b5d2db60",
+        "created_at": "2023-09-22T09:02:46.883Z",
+        "updated_at": "2023-09-22T05:21:08.030Z"
+      },
+      {
+        "id": "f4bce8c8-74ec-4c1f-b529-ad794c7bb5f9",
+        "created_at": "2023-09-22T13:46:05.091Z",
+        "updated_at": "2023-09-22T14:42:35.922Z"
+      }
+    ],
+    "service_status": [
+      {
+        "id": "36e38e4b-91c0-4770-ba41-bcc3b7432879",
+        "created_at": "2023-09-22T05:09:30.272Z",
+        "updated_at": "2023-09-22T05:56:07.862Z"
+      },
+      {
+        "id": "d4cceb30-63be-413d-84b9-4752eb06a39b",
+        "created_at": "2023-09-22T02:01:08.324Z",
+        "updated_at": "2023-09-22T03:00:07.832Z"
+      },
+      {
+        "id": "6f9fc870-2621-48f2-8d9c-bd4e47e475f0",
+        "created_at": "2023-09-22T01:11:56.381Z",
+        "updated_at": "2023-09-22T13:04:48.533Z"
+      },
+      {
+        "id": "0426a646-a9bf-4498-9c54-52f3bf29fc2e",
+        "created_at": "2023-09-22T11:41:11.676Z",
+        "updated_at": "2023-09-22T14:31:12.185Z"
+      },
+      {
+        "id": "9c281549-dc4c-4cf2-8c2f-5878eef0f1a0",
+        "created_at": "2023-09-22T18:37:36.943Z",
+        "updated_at": "2023-09-22T01:36:18.257Z"
+      }
+    ],
+    "service_parts": [
+      {
+        "id": "949166a5-bbcf-402f-9bed-3a91f17505cc",
+        "created_at": "2023-09-22T05:45:08.223Z",
+        "updated_at": "2023-09-22T02:35:11.324Z"
+      },
+      {
+        "id": "dbe75894-3e7f-48fb-b938-6bf6200e788c",
+        "created_at": "2023-09-22T00:39:01.184Z",
+        "updated_at": "2023-09-21T19:06:12.349Z"
+      },
+      {
+        "id": "9335ce5b-effa-4ce1-8943-c1b95e0ce492",
+        "created_at": "2023-09-21T20:23:50.164Z",
+        "updated_at": "2023-09-22T16:22:29.543Z"
+      },
+      {
+        "id": "297a0099-e583-46d5-ba38-12eb7d16abb9",
+        "created_at": "2023-09-21T20:12:48.541Z",
+        "updated_at": "2023-09-22T15:09:50.836Z"
+      },
+      {
+        "id": "9084e061-fac4-4bd4-8d32-602d5f10aa09",
+        "created_at": "2023-09-22T02:15:50.897Z",
+        "updated_at": "2023-09-22T04:02:22.556Z"
+      }
+    ],
+    "service_location": [
+      {
+        "id": "eac77005-aeeb-4fe4-9037-2ffc04ee95d2",
+        "created_at": "2023-09-22T15:58:19.231Z",
+        "updated_at": "2023-09-22T04:44:19.168Z"
+      },
+      {
+        "id": "e31e8d58-c267-4762-b4b6-d9c294882d49",
+        "created_at": "2023-09-22T07:30:54.827Z",
+        "updated_at": "2023-09-22T12:16:53.282Z"
+      },
+      {
+        "id": "be73b658-57b5-4821-ac5e-8871b72b3d61",
+        "created_at": "2023-09-22T06:47:27.511Z",
+        "updated_at": "2023-09-21T21:00:43.329Z"
+      },
+      {
+        "id": "8405ab43-4833-426e-b908-d8e05d6869d6",
+        "created_at": "2023-09-22T11:32:22.072Z",
+        "updated_at": "2023-09-22T02:28:26.057Z"
+      },
+      {
+        "id": "be9d9fbd-0a10-4661-9cd3-6953bbcf3c1e",
+        "created_at": "2023-09-22T01:35:53.308Z",
+        "updated_at": "2023-09-22T11:33:20.994Z"
+      }
+    ],
+    "service_history": [
+      {
+        "id": "1dc52e65-a536-4bb4-8b1a-82da39d7d758",
+        "created_at": "2023-09-22T05:06:23.372Z",
+        "updated_at": "2023-09-22T18:11:56.825Z"
+      },
+      {
+        "id": "19fd938c-33bf-4616-94ce-68fbbe2b68f9",
+        "created_at": "2023-09-22T04:17:04.577Z",
+        "updated_at": "2023-09-22T16:23:20.630Z"
+      },
+      {
+        "id": "eb181fc9-2105-4bfc-864b-be319f360f6e",
+        "created_at": "2023-09-22T00:05:21.257Z",
+        "updated_at": "2023-09-21T21:21:00.427Z"
+      },
+      {
+        "id": "38d9899b-1fa9-4f67-981d-2807b3fd4607",
+        "created_at": "2023-09-22T16:44:37.057Z",
+        "updated_at": "2023-09-22T03:00:26.667Z"
+      },
+      {
+        "id": "db0bc15f-ebf9-4d5f-a380-54438f6411a2",
+        "created_at": "2023-09-22T13:06:27.748Z",
+        "updated_at": "2023-09-22T12:59:02.407Z"
+      }
+    ],
+    "laptop_owner": [
+      {
+        "id": "6af97482-1209-4245-acfe-30ff166233b9",
+        "created_at": "2023-09-21T21:50:32.621Z",
+        "updated_at": "2023-09-22T05:41:32.819Z"
+      },
+      {
+        "id": "6f73a406-6c79-46bf-af5a-d4db70bfaf4c",
+        "created_at": "2023-09-22T07:44:54.185Z",
+        "updated_at": "2023-09-22T18:03:45.429Z"
+      },
+      {
+        "id": "3ac51053-ccfb-416a-b680-00c4cd7db35d",
+        "created_at": "2023-09-21T23:49:34.665Z",
+        "updated_at": "2023-09-21T23:20:10.204Z"
+      },
+      {
+        "id": "7b939f36-573b-4b56-80f9-0017b06e22d6",
+        "created_at": "2023-09-22T06:42:16.510Z",
+        "updated_at": "2023-09-22T12:41:24.643Z"
+      },
+      {
+        "id": "d6c4311b-6fc1-41e2-8915-3eba3d27b3ab",
+        "created_at": "2023-09-22T14:22:01.562Z",
+        "updated_at": "2023-09-22T10:30:27.315Z"
+      }
+    ],
+    "laptop_model": [
+      {
+        "id": "45591a6e-4fc7-4593-9e7d-901a042ce3d7",
+        "created_at": "2023-09-22T15:04:21.197Z",
+        "updated_at": "2023-09-22T06:46:26.437Z"
+      },
+      {
+        "id": "6cfef876-c5a1-45cc-97ae-c1c33eb49adf",
+        "created_at": "2023-09-22T08:22:33.959Z",
+        "updated_at": "2023-09-21T21:40:04.995Z"
+      },
+      {
+        "id": "06a37e6c-b5d0-4e54-b539-955136dfb4f9",
+        "created_at": "2023-09-21T20:49:18.696Z",
+        "updated_at": "2023-09-21T21:18:03.759Z"
+      },
+      {
+        "id": "beb6c81f-32d3-477a-a888-da74e1b4b1a9",
+        "created_at": "2023-09-22T06:23:26.142Z",
+        "updated_at": "2023-09-22T00:33:18.455Z"
+      },
+      {
+        "id": "d2b3130a-139e-4961-8bbd-f29c79779edd",
+        "created_at": "2023-09-21T23:47:50.456Z",
+        "updated_at": "2023-09-22T08:18:01.332Z"
+      }
+    ],
+    "laptop_inventory": [
+      {
+        "id": "57584506-cf06-4b3c-b157-e0d27a6383a7",
+        "created_at": "2023-09-22T00:30:57.854Z",
+        "updated_at": "2023-09-21T21:17:15.391Z"
+      },
+      {
+        "id": "d35c4fad-ac7d-4183-87a7-0d5c38512f76",
+        "created_at": "2023-09-22T00:30:04.374Z",
+        "updated_at": "2023-09-22T15:35:24.245Z"
+      },
+      {
+        "id": "627b916c-21a4-45a1-88cf-56f261cd45d7",
+        "created_at": "2023-09-22T08:02:48.652Z",
+        "updated_at": "2023-09-21T21:15:42.284Z"
+      },
+      {
+        "id": "230c86f0-b0f3-4eaf-abb1-8b985189f1db",
+        "created_at": "2023-09-22T10:47:49.694Z",
+        "updated_at": "2023-09-22T02:31:19.063Z"
+      },
+      {
+        "id": "dcc21fa6-fad8-466a-b9b2-52e99ff8a719",
+        "created_at": "2023-09-22T00:03:36.326Z",
+        "updated_at": "2023-09-21T23:49:42.482Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "c1d947d5-f8c4-408d-8f74-41071458e2f4",
+        "email": "Alexandria_Stanton19@roq.tech",
+        "firstName": "Virgil",
+        "lastName": "Greenholt",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/144.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "368c6d3c-eaae-4722-b50f-9003c85632bb",
+        "email": "Brody_Dietrich@roq.tech",
+        "firstName": "Alysson",
+        "lastName": "Schamberger",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/674.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "a2b9a423-cced-483a-912c-8a10c68c79c6",
+        "email": "Jackie.Kuphal82@roq.tech",
+        "firstName": "Asia",
+        "lastName": "Rau",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/7200128",
+        "tenantId": null
+      },
+      {
+        "reference": "58191952-9f24-47f2-9df1-376b0c2e7502",
+        "email": "Emerson_Rempel10@roq.tech",
+        "firstName": "Rudy",
+        "lastName": "Rowe-Greenholt",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/84221622",
+        "tenantId": null
+      },
+      {
+        "reference": "1414d998-d9cc-4403-91b0-749f8ef33088",
+        "email": "Jovani.Beahan@roq.tech",
+        "firstName": "Lilly",
+        "lastName": "Hackett-Grant",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/47864490",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "warranty_details": [
+      {
+        "id": "f155b583-e6f2-4ec4-89b8-924dbb79f398",
+        "created_at": "2023-09-22T05:48:52.162Z",
+        "updated_at": "2023-09-22T16:05:51.811Z"
+      },
+      {
+        "id": "70b74dfe-89ab-43c9-8508-870832c15cea",
+        "created_at": "2023-09-21T22:51:57.375Z",
+        "updated_at": "2023-09-22T02:33:24.799Z"
+      },
+      {
+        "id": "0884ef38-de92-4154-b82c-4249f746fc22",
+        "created_at": "2023-09-22T01:49:05.287Z",
+        "updated_at": "2023-09-22T15:54:02.789Z"
+      },
+      {
+        "id": "f4507571-5e4a-4b15-abeb-ba1dc6930218",
+        "created_at": "2023-09-22T09:46:38.734Z",
+        "updated_at": "2023-09-22T09:02:48.246Z"
+      },
+      {
+        "id": "b90e3646-72a8-4376-ae99-d775313a82e8",
+        "created_at": "2023-09-21T22:43:34.479Z",
+        "updated_at": "2023-09-22T08:21:54.005Z"
+      }
+    ],
+    "service_type": [
+      {
+        "id": "92d3bc9e-e1a2-4eb4-903e-478a766aad6d",
+        "created_at": "2023-09-22T09:15:24.807Z",
+        "updated_at": "2023-09-22T12:31:18.217Z"
+      },
+      {
+        "id": "a7a6828c-c882-4325-8bc2-a12aec5b6369",
+        "created_at": "2023-09-22T18:40:45.086Z",
+        "updated_at": "2023-09-21T20:12:24.159Z"
+      },
+      {
+        "id": "912d2b4d-fde5-42c9-b4d1-754ddc675e7f",
+        "created_at": "2023-09-22T04:26:44.323Z",
+        "updated_at": "2023-09-22T14:02:03.454Z"
+      },
+      {
+        "id": "f7090bf2-d0d1-4103-bdf2-07e85bb89ce3",
+        "created_at": "2023-09-21T19:48:10.861Z",
+        "updated_at": "2023-09-21T23:20:51.596Z"
+      },
+      {
+        "id": "c1555643-1996-4fae-afcb-5bfded2ca96b",
+        "created_at": "2023-09-21T21:24:17.541Z",
+        "updated_at": "2023-09-21T19:44:00.064Z"
+      }
+    ],
+    "service_ticket": [
+      {
+        "id": "a97e2f66-a735-4ec7-80a6-f6c37feb7f4b",
+        "created_at": "2023-09-22T00:45:27.897Z",
+        "updated_at": "2023-09-22T08:56:12.146Z"
+      },
+      {
+        "id": "f37d9af3-b540-4332-ad99-d7407e278f2e",
+        "created_at": "2023-09-21T22:25:03.438Z",
+        "updated_at": "2023-09-21T19:01:30.915Z"
+      },
+      {
+        "id": "f53cfb1f-fb33-4c7b-a3e2-b21435bb40f0",
+        "created_at": "2023-09-22T03:53:50.235Z",
+        "updated_at": "2023-09-22T05:13:56.264Z"
+      },
+      {
+        "id": "8ac4e38f-2218-4723-a6b4-101715c86964",
+        "created_at": "2023-09-22T10:02:17.724Z",
+        "updated_at": "2023-09-21T23:07:44.302Z"
+      },
+      {
+        "id": "247b930f-9611-4016-8f1e-fe8bf521f70e",
+        "created_at": "2023-09-22T18:35:08.416Z",
+        "updated_at": "2023-09-22T16:04:50.533Z"
+      }
+    ],
+    "service_status": [
+      {
+        "id": "05b7027b-abd2-4ab0-a2a0-b69f854dbc80",
+        "created_at": "2023-09-22T15:08:01.814Z",
+        "updated_at": "2023-09-22T07:39:08.352Z"
+      },
+      {
+        "id": "75d301ec-e181-4862-8d65-ac1ff48b2f74",
+        "created_at": "2023-09-22T05:46:04.798Z",
+        "updated_at": "2023-09-22T16:16:55.078Z"
+      },
+      {
+        "id": "39f36acf-dcc2-4a7b-98c2-1590dc549323",
+        "created_at": "2023-09-22T06:07:35.164Z",
+        "updated_at": "2023-09-21T22:42:25.228Z"
+      },
+      {
+        "id": "bff9d724-ae6d-4eaa-a3e9-83acfa00995e",
+        "created_at": "2023-09-21T20:55:38.747Z",
+        "updated_at": "2023-09-22T11:05:40.506Z"
+      },
+      {
+        "id": "9bfc83d2-dc95-4cdf-a06a-f37c808353dc",
+        "created_at": "2023-09-22T16:24:05.917Z",
+        "updated_at": "2023-09-21T20:27:39.822Z"
+      }
+    ],
+    "service_parts": [
+      {
+        "id": "a88d864f-fe96-450f-a897-f99a38a06bef",
+        "created_at": "2023-09-21T21:46:37.103Z",
+        "updated_at": "2023-09-21T21:14:15.598Z"
+      },
+      {
+        "id": "d8e7e37a-53d4-46c4-954d-64850e818d64",
+        "created_at": "2023-09-22T16:11:52.873Z",
+        "updated_at": "2023-09-21T23:24:31.724Z"
+      },
+      {
+        "id": "8ff7cffb-b48f-48df-90d1-c50eca0afd4a",
+        "created_at": "2023-09-21T21:04:30.152Z",
+        "updated_at": "2023-09-22T08:18:57.334Z"
+      },
+      {
+        "id": "c7677a26-03bf-46a3-8e7f-ef2e9e4ec2f9",
+        "created_at": "2023-09-22T07:05:04.763Z",
+        "updated_at": "2023-09-22T01:16:11.134Z"
+      },
+      {
+        "id": "1803db85-a47c-4e64-bc27-bfa2f8f0d442",
+        "created_at": "2023-09-22T06:29:04.045Z",
+        "updated_at": "2023-09-22T05:43:47.020Z"
+      }
+    ],
+    "service_location": [
+      {
+        "id": "001b1654-abd8-4da2-a43e-c4918ec0d285",
+        "created_at": "2023-09-22T02:52:13.147Z",
+        "updated_at": "2023-09-21T22:06:43.251Z"
+      },
+      {
+        "id": "2a122fe1-6b92-4120-b344-bf7af6e47925",
+        "created_at": "2023-09-22T07:59:07.860Z",
+        "updated_at": "2023-09-22T13:30:56.525Z"
+      },
+      {
+        "id": "6a8e7b92-3a6f-4343-8fb7-15e0fd94fdca",
+        "created_at": "2023-09-22T12:20:49.316Z",
+        "updated_at": "2023-09-21T23:02:04.870Z"
+      },
+      {
+        "id": "53b68ad9-0ef8-4cd2-b5d6-071a7e6b1bbe",
+        "created_at": "2023-09-22T08:30:29.816Z",
+        "updated_at": "2023-09-22T12:05:59.669Z"
+      },
+      {
+        "id": "e1704b72-3b9d-452a-94bb-70d0704337cd",
+        "created_at": "2023-09-22T06:11:56.519Z",
+        "updated_at": "2023-09-22T11:57:02.880Z"
+      }
+    ],
+    "service_history": [
+      {
+        "id": "a1bc925e-f570-4283-94e4-c5f90610723e",
+        "created_at": "2023-09-22T07:39:02.988Z",
+        "updated_at": "2023-09-22T07:26:20.131Z"
+      },
+      {
+        "id": "06920043-9577-47cc-a9b1-423964c0fdce",
+        "created_at": "2023-09-21T23:36:50.421Z",
+        "updated_at": "2023-09-21T22:53:53.355Z"
+      },
+      {
+        "id": "e313ad45-c5ee-4639-b51f-0417618038b0",
+        "created_at": "2023-09-22T12:02:07.563Z",
+        "updated_at": "2023-09-22T17:54:52.350Z"
+      },
+      {
+        "id": "a6f89432-d289-4323-9749-8351bb2c617c",
+        "created_at": "2023-09-22T11:14:41.693Z",
+        "updated_at": "2023-09-22T16:52:10.398Z"
+      },
+      {
+        "id": "e0da8bac-4a8b-43c1-a485-35b3ac0bbbc1",
+        "created_at": "2023-09-22T12:11:43.961Z",
+        "updated_at": "2023-09-22T06:55:18.352Z"
+      }
+    ],
+    "laptop_owner": [
+      {
+        "id": "e8166b87-7b22-4727-aade-66f51148ef90",
+        "created_at": "2023-09-22T17:26:41.933Z",
+        "updated_at": "2023-09-22T16:27:13.949Z"
+      },
+      {
+        "id": "b3717d5d-6292-40b5-93f7-0c8d95c03560",
+        "created_at": "2023-09-22T09:27:37.801Z",
+        "updated_at": "2023-09-22T14:07:35.546Z"
+      },
+      {
+        "id": "364376c9-0520-41a4-a038-66da348a413c",
+        "created_at": "2023-09-22T08:11:49.965Z",
+        "updated_at": "2023-09-22T04:24:05.829Z"
+      },
+      {
+        "id": "7c8bce42-0276-4f3c-9b15-72dd87474e34",
+        "created_at": "2023-09-22T00:04:02.592Z",
+        "updated_at": "2023-09-22T15:48:51.430Z"
+      },
+      {
+        "id": "41232c9a-bef9-44dd-b1e5-b149c32c26f3",
+        "created_at": "2023-09-22T01:31:13.421Z",
+        "updated_at": "2023-09-22T01:43:43.175Z"
+      }
+    ],
+    "laptop_model": [
+      {
+        "id": "5789c44f-3341-468a-86dd-e5733908da48",
+        "created_at": "2023-09-21T20:42:20.930Z",
+        "updated_at": "2023-09-22T17:14:56.206Z"
+      },
+      {
+        "id": "c1b9a034-5605-440e-96c0-5a74a7544255",
+        "created_at": "2023-09-22T11:23:14.135Z",
+        "updated_at": "2023-09-22T05:00:34.521Z"
+      },
+      {
+        "id": "85c58071-19fe-4191-9306-4ab85cb1ac0a",
+        "created_at": "2023-09-22T15:21:24.245Z",
+        "updated_at": "2023-09-22T05:38:10.422Z"
+      },
+      {
+        "id": "a219778f-a58c-479e-a371-d50a8673e7e7",
+        "created_at": "2023-09-22T10:57:33.585Z",
+        "updated_at": "2023-09-22T07:07:44.142Z"
+      },
+      {
+        "id": "1b6f47d4-0a1a-4b0d-baab-9be348d39cfe",
+        "created_at": "2023-09-21T19:51:49.379Z",
+        "updated_at": "2023-09-22T01:18:21.035Z"
+      }
+    ],
+    "laptop_inventory": [
+      {
+        "id": "59438a2a-5e9d-49a3-ba8f-2bdd2996c50b",
+        "created_at": "2023-09-22T13:06:35.197Z",
+        "updated_at": "2023-09-21T21:49:12.909Z"
+      },
+      {
+        "id": "183391a1-cbd0-4d50-806f-eb153ff90f2d",
+        "created_at": "2023-09-22T06:36:40.956Z",
+        "updated_at": "2023-09-22T19:00:33.330Z"
+      },
+      {
+        "id": "f1836995-e6a2-4462-8b87-ee218aba7cc0",
+        "created_at": "2023-09-22T10:25:55.488Z",
+        "updated_at": "2023-09-22T17:36:39.699Z"
+      },
+      {
+        "id": "71408734-d9a0-4e60-b611-5f143e8d82f3",
+        "created_at": "2023-09-22T08:50:36.387Z",
+        "updated_at": "2023-09-22T10:46:06.220Z"
+      },
+      {
+        "id": "8946d2d1-4293-409c-9fe8-b9a9a747780b",
+        "created_at": "2023-09-22T06:13:59.916Z",
+        "updated_at": "2023-09-21T23:07:08.866Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "c8c94f09-979d-4aaa-a619-a666793cca66",
+        "email": "Flossie_Bernier@roq.tech",
+        "firstName": "Clark",
+        "lastName": "Smith",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/36680162",
+        "tenantId": null
+      },
+      {
+        "reference": "7eedad06-415a-4e87-a998-7638417a7405",
+        "email": "Lamont.Moen27@roq.tech",
+        "firstName": "Lydia",
+        "lastName": "Parker",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/87940283",
+        "tenantId": null
+      },
+      {
+        "reference": "174349e5-dd7e-4b64-a0e5-93cc0e6cce24",
+        "email": "Trace9@roq.tech",
+        "firstName": "Wanda",
+        "lastName": "Ullrich",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/56102554",
+        "tenantId": null
+      },
+      {
+        "reference": "7ab47ed5-74f2-4cb4-99eb-9697321c67e3",
+        "email": "Lina.McKenzie94@roq.tech",
+        "firstName": "Bonnie",
+        "lastName": "Hagenes",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/75643316",
+        "tenantId": null
+      },
+      {
+        "reference": "527edd61-e4ec-476f-b446-540043e83e6a",
+        "email": "Leif_Collins@roq.tech",
+        "firstName": "Thea",
+        "lastName": "Ernser",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/81590558",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "warranty_details": [
+      {
+        "id": "2dc61624-bc15-4b64-b51f-04de4d1f997e",
+        "created_at": "2023-09-22T08:30:29.158Z",
+        "updated_at": "2023-09-21T23:48:05.490Z"
+      },
+      {
+        "id": "d823b0a3-4d46-4e9b-b83c-a32ccab79d4d",
+        "created_at": "2023-09-22T15:50:44.627Z",
+        "updated_at": "2023-09-22T00:48:51.151Z"
+      },
+      {
+        "id": "100b0c4c-aa4d-4028-8490-f0405c833dc1",
+        "created_at": "2023-09-22T04:20:04.108Z",
+        "updated_at": "2023-09-22T06:09:06.575Z"
+      },
+      {
+        "id": "7ac491e1-ab8a-47a6-9b94-4f657c4fa15f",
+        "created_at": "2023-09-22T10:13:06.573Z",
+        "updated_at": "2023-09-22T05:30:08.917Z"
+      },
+      {
+        "id": "79ed85a7-dd23-4b14-836e-b91de3e082be",
+        "created_at": "2023-09-22T05:23:23.963Z",
+        "updated_at": "2023-09-22T02:05:59.377Z"
+      }
+    ],
+    "service_type": [
+      {
+        "id": "770d7102-7f22-4091-a2e3-9f7fce637f10",
+        "created_at": "2023-09-22T17:14:16.073Z",
+        "updated_at": "2023-09-22T12:14:38.149Z"
+      },
+      {
+        "id": "9f19f7b1-ff52-4120-af56-2e713f9c08af",
+        "created_at": "2023-09-22T06:42:30.606Z",
+        "updated_at": "2023-09-22T06:12:21.143Z"
+      },
+      {
+        "id": "97b24e82-e86c-4443-8275-ffefaa8d2d9e",
+        "created_at": "2023-09-21T20:37:06.271Z",
+        "updated_at": "2023-09-22T09:59:43.106Z"
+      },
+      {
+        "id": "a3a0b094-b623-49a3-8f13-cae17c4c3cc5",
+        "created_at": "2023-09-22T05:47:07.200Z",
+        "updated_at": "2023-09-22T15:56:23.282Z"
+      },
+      {
+        "id": "7f53532f-b6f3-4301-9573-f8cbdc0f1a1f",
+        "created_at": "2023-09-21T23:16:29.182Z",
+        "updated_at": "2023-09-22T03:17:26.682Z"
+      }
+    ],
+    "service_ticket": [
+      {
+        "id": "ed461dee-679a-476c-8584-097d5897ee06",
+        "created_at": "2023-09-21T21:21:17.248Z",
+        "updated_at": "2023-09-22T08:59:00.727Z"
+      },
+      {
+        "id": "7d90799b-a688-4aaf-8a33-06f83d7a0a38",
+        "created_at": "2023-09-22T12:58:13.966Z",
+        "updated_at": "2023-09-21T21:15:48.555Z"
+      },
+      {
+        "id": "ca7e1acf-3634-4c30-b298-679fd1017740",
+        "created_at": "2023-09-22T15:54:33.716Z",
+        "updated_at": "2023-09-22T08:26:23.246Z"
+      },
+      {
+        "id": "9c046f8d-7e17-4d3b-b72e-6ad29240f558",
+        "created_at": "2023-09-21T23:56:49.217Z",
+        "updated_at": "2023-09-22T04:05:04.663Z"
+      },
+      {
+        "id": "214dad0d-136f-4cc5-81c2-aa18aa66fde9",
+        "created_at": "2023-09-22T14:12:50.777Z",
+        "updated_at": "2023-09-22T18:40:41.669Z"
+      }
+    ],
+    "service_status": [
+      {
+        "id": "e79423d7-e7e4-427e-9233-409d08bb72a8",
+        "created_at": "2023-09-21T22:33:40.061Z",
+        "updated_at": "2023-09-21T22:11:01.248Z"
+      },
+      {
+        "id": "4e83372a-140e-417e-88a9-eb920edd8f1c",
+        "created_at": "2023-09-22T08:28:36.047Z",
+        "updated_at": "2023-09-22T17:12:30.495Z"
+      },
+      {
+        "id": "fd9ab5fe-3ff5-413c-b69b-fbaa6ae4b284",
+        "created_at": "2023-09-22T13:13:40.011Z",
+        "updated_at": "2023-09-22T12:00:05.988Z"
+      },
+      {
+        "id": "bf9363fe-0011-4cd1-9354-534a37e9e259",
+        "created_at": "2023-09-22T11:52:19.045Z",
+        "updated_at": "2023-09-22T13:40:53.025Z"
+      },
+      {
+        "id": "d0394229-07fd-4d03-83c6-77ed80cceef8",
+        "created_at": "2023-09-21T20:51:28.660Z",
+        "updated_at": "2023-09-22T01:36:04.559Z"
+      }
+    ],
+    "service_parts": [
+      {
+        "id": "275e54c2-17af-4f73-b660-3ee7972693d5",
+        "created_at": "2023-09-22T12:28:40.758Z",
+        "updated_at": "2023-09-22T01:15:47.411Z"
+      },
+      {
+        "id": "985fb876-1a41-43b5-8a57-f896d4a3087a",
+        "created_at": "2023-09-22T01:25:15.959Z",
+        "updated_at": "2023-09-21T20:03:18.325Z"
+      },
+      {
+        "id": "b41415cd-0f4e-430c-a3ca-92828270bb6b",
+        "created_at": "2023-09-22T12:51:32.199Z",
+        "updated_at": "2023-09-22T07:56:40.695Z"
+      },
+      {
+        "id": "0eb3cdce-8c65-4c34-ad65-674ac4f71975",
+        "created_at": "2023-09-21T20:38:38.241Z",
+        "updated_at": "2023-09-22T00:00:44.596Z"
+      },
+      {
+        "id": "2d44c0ed-d57e-4a5c-b330-15785a21cbd2",
+        "created_at": "2023-09-22T13:27:04.503Z",
+        "updated_at": "2023-09-22T16:58:06.836Z"
+      }
+    ],
+    "service_location": [
+      {
+        "id": "047dd416-8d7e-4258-a54d-06f1485dadcf",
+        "created_at": "2023-09-22T16:14:44.247Z",
+        "updated_at": "2023-09-21T20:56:10.942Z"
+      },
+      {
+        "id": "3b428fd7-4da6-47df-8a44-e26ba1c04918",
+        "created_at": "2023-09-21T20:00:45.439Z",
+        "updated_at": "2023-09-21T21:15:30.491Z"
+      },
+      {
+        "id": "692db5c2-bfa2-4860-a6df-bef196f0f42c",
+        "created_at": "2023-09-22T10:59:37.449Z",
+        "updated_at": "2023-09-22T00:26:42.534Z"
+      },
+      {
+        "id": "78037ea4-78d0-418c-a77c-9f1220a6560b",
+        "created_at": "2023-09-22T17:00:42.201Z",
+        "updated_at": "2023-09-22T06:52:54.327Z"
+      },
+      {
+        "id": "50b8f06f-de72-4f77-a72a-e38633afb8fa",
+        "created_at": "2023-09-21T19:20:42.392Z",
+        "updated_at": "2023-09-22T12:02:27.445Z"
+      }
+    ],
+    "service_history": [
+      {
+        "id": "b0d7d467-9203-4036-86ab-6fa82e4f2be0",
+        "created_at": "2023-09-22T08:03:35.513Z",
+        "updated_at": "2023-09-22T05:30:39.402Z"
+      },
+      {
+        "id": "5bd15682-37a1-46ab-a4a8-4f706d2e4c05",
+        "created_at": "2023-09-21T21:17:00.316Z",
+        "updated_at": "2023-09-22T17:34:13.609Z"
+      },
+      {
+        "id": "a6748765-3a0d-4f30-8784-da3152488da1",
+        "created_at": "2023-09-21T22:13:51.766Z",
+        "updated_at": "2023-09-22T00:18:48.992Z"
+      },
+      {
+        "id": "6052923c-918f-4a12-b9d4-fab5624fca67",
+        "created_at": "2023-09-22T04:46:14.785Z",
+        "updated_at": "2023-09-22T16:23:27.489Z"
+      },
+      {
+        "id": "250833e5-2ba2-46b0-9246-354e24452923",
+        "created_at": "2023-09-21T21:17:48.772Z",
+        "updated_at": "2023-09-22T03:25:01.670Z"
+      }
+    ],
+    "laptop_owner": [
+      {
+        "id": "7cfc23eb-2f4c-40e8-86d9-593c1f83f690",
+        "created_at": "2023-09-22T15:26:22.374Z",
+        "updated_at": "2023-09-22T16:46:58.740Z"
+      },
+      {
+        "id": "bf13f712-4b9b-426b-81f3-28d48acd52fd",
+        "created_at": "2023-09-22T13:34:49.818Z",
+        "updated_at": "2023-09-21T22:46:32.437Z"
+      },
+      {
+        "id": "208b53f6-4601-44dd-8964-e0fb65252573",
+        "created_at": "2023-09-22T04:59:36.544Z",
+        "updated_at": "2023-09-22T05:08:15.530Z"
+      },
+      {
+        "id": "4d8856a5-0644-4786-9a5f-dff4fd9cc005",
+        "created_at": "2023-09-22T05:15:50.572Z",
+        "updated_at": "2023-09-21T23:33:51.111Z"
+      },
+      {
+        "id": "3eec992f-cfb7-4778-a443-bdf404c0a6a8",
+        "created_at": "2023-09-21T19:10:52.723Z",
+        "updated_at": "2023-09-21T23:34:53.458Z"
+      }
+    ],
+    "laptop_model": [
+      {
+        "id": "3c8dbd52-137b-4af6-b270-a287169fc3fc",
+        "created_at": "2023-09-22T12:10:32.128Z",
+        "updated_at": "2023-09-22T07:16:26.154Z"
+      },
+      {
+        "id": "507fd26f-7474-4ca8-a5bf-a64ca3d0dd21",
+        "created_at": "2023-09-21T23:37:57.400Z",
+        "updated_at": "2023-09-22T05:30:52.708Z"
+      },
+      {
+        "id": "322ee34f-ee42-4c18-ba9e-06d0d40ceba2",
+        "created_at": "2023-09-22T10:22:45.218Z",
+        "updated_at": "2023-09-21T19:31:30.846Z"
+      },
+      {
+        "id": "6c565e91-7d55-49da-9cf2-3c86a67ade71",
+        "created_at": "2023-09-21T23:37:32.133Z",
+        "updated_at": "2023-09-22T01:53:29.487Z"
+      },
+      {
+        "id": "636b5fb1-1446-41bc-8b53-7d010d346328",
+        "created_at": "2023-09-22T08:29:17.412Z",
+        "updated_at": "2023-09-21T22:45:49.096Z"
+      }
+    ],
+    "laptop_inventory": [
+      {
+        "id": "65dac6d9-868b-4f28-a989-a5bce21faae3",
+        "created_at": "2023-09-22T15:14:19.368Z",
+        "updated_at": "2023-09-22T11:30:36.035Z"
+      },
+      {
+        "id": "b2e24a61-3eed-41bc-b9d7-9079383c6c5a",
+        "created_at": "2023-09-22T02:30:26.449Z",
+        "updated_at": "2023-09-22T03:04:45.761Z"
+      },
+      {
+        "id": "df4dc339-a91d-477b-9f2e-d5fa74a2d922",
+        "created_at": "2023-09-21T21:32:13.394Z",
+        "updated_at": "2023-09-22T16:30:53.285Z"
+      },
+      {
+        "id": "bb3df15c-ee04-447e-ba23-29bbc65ffd80",
+        "created_at": "2023-09-22T08:58:37.974Z",
+        "updated_at": "2023-09-22T04:37:47.279Z"
+      },
+      {
+        "id": "11ee847c-70c0-40b5-997d-133cc49d95fd",
+        "created_at": "2023-09-21T20:08:29.581Z",
+        "updated_at": "2023-09-22T13:54:46.085Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "a4feb5a5-2f47-481b-861f-cd89419921c7",
+        "email": "Alberta56@roq.tech",
+        "firstName": "Pamela",
+        "lastName": "Sipes",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/54857166",
+        "tenantId": null
+      },
+      {
+        "reference": "7eeb2e1a-1356-48c2-af08-448f6be99ab6",
+        "email": "Camren_Shields@roq.tech",
+        "firstName": "Liza",
+        "lastName": "Jacobi",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/54853935",
+        "tenantId": null
+      },
+      {
+        "reference": "2f5830f9-3b3b-4397-ba1f-f7128b2473d8",
+        "email": "Kamren_Gibson@roq.tech",
+        "firstName": "Clair",
+        "lastName": "Stokes",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/28.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "8e92fec4-7ab3-4ab6-a570-46c7d830a258",
+        "email": "Jaiden68@roq.tech",
+        "firstName": "Marco",
+        "lastName": "Bruen",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/18957309",
+        "tenantId": null
+      },
+      {
+        "reference": "f374f929-ad85-4361-9b86-ed9677c5e6e1",
+        "email": "Ned44@roq.tech",
+        "firstName": "Freda",
+        "lastName": "Lind",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1092.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "warranty_details": [
+      {
+        "id": "2ff1ce80-e98b-4ba5-8f45-9d02e5022039",
+        "created_at": "2023-09-22T02:52:55.866Z",
+        "updated_at": "2023-09-21T20:11:14.861Z"
+      },
+      {
+        "id": "bc908000-e630-4167-8da5-9a965134696a",
+        "created_at": "2023-09-21T23:16:17.303Z",
+        "updated_at": "2023-09-22T06:10:55.268Z"
+      },
+      {
+        "id": "030bec2e-1510-4413-936b-f7897739a60f",
+        "created_at": "2023-09-22T11:11:22.517Z",
+        "updated_at": "2023-09-22T05:03:45.085Z"
+      },
+      {
+        "id": "3ad0b9da-e400-4828-a802-2ddfd80e1ee9",
+        "created_at": "2023-09-21T23:11:29.146Z",
+        "updated_at": "2023-09-22T12:28:59.715Z"
+      },
+      {
+        "id": "d6b9207f-efaf-4ea3-bbea-de8f9c0f6c95",
+        "created_at": "2023-09-22T17:41:01.315Z",
+        "updated_at": "2023-09-21T19:34:18.009Z"
+      }
+    ],
+    "service_type": [
+      {
+        "id": "7bf578c9-6f1c-4728-a2ac-cb319c3e2666",
+        "created_at": "2023-09-22T08:08:41.671Z",
+        "updated_at": "2023-09-22T04:40:18.958Z"
+      },
+      {
+        "id": "9d9d1a76-e509-4b31-a6be-f4f641c6214a",
+        "created_at": "2023-09-22T15:38:38.000Z",
+        "updated_at": "2023-09-22T15:22:47.931Z"
+      },
+      {
+        "id": "7fab900f-b76a-42cb-bca7-59ff369e7d87",
+        "created_at": "2023-09-22T15:51:55.796Z",
+        "updated_at": "2023-09-22T04:56:22.091Z"
+      },
+      {
+        "id": "7c4cebe5-e7fe-4fa4-8e10-548b6de9583f",
+        "created_at": "2023-09-22T13:51:18.418Z",
+        "updated_at": "2023-09-22T10:41:58.014Z"
+      },
+      {
+        "id": "d36c3029-f4ca-4f3c-98b1-4df034906c61",
+        "created_at": "2023-09-22T03:16:55.561Z",
+        "updated_at": "2023-09-22T06:34:05.385Z"
+      }
+    ],
+    "service_ticket": [
+      {
+        "id": "8a345817-7928-40aa-81ac-4557a2efbf53",
+        "created_at": "2023-09-22T18:37:52.843Z",
+        "updated_at": "2023-09-21T20:04:59.260Z"
+      },
+      {
+        "id": "27432181-1e9a-4bd6-a7c7-cf685c322fb5",
+        "created_at": "2023-09-22T15:48:17.908Z",
+        "updated_at": "2023-09-22T15:21:35.500Z"
+      },
+      {
+        "id": "99d98839-e7be-4f1a-a297-d647463ca462",
+        "created_at": "2023-09-22T11:28:47.166Z",
+        "updated_at": "2023-09-22T13:52:49.239Z"
+      },
+      {
+        "id": "baa6bad3-9058-4b90-9869-036d3f3f21e3",
+        "created_at": "2023-09-22T17:01:39.463Z",
+        "updated_at": "2023-09-21T19:15:25.038Z"
+      },
+      {
+        "id": "f4a0d875-bd62-4e11-9aa5-28f545920916",
+        "created_at": "2023-09-22T05:33:25.258Z",
+        "updated_at": "2023-09-21T23:13:58.879Z"
+      }
+    ],
+    "service_status": [
+      {
+        "id": "f9236509-d85c-4e51-a37f-42898528ed48",
+        "created_at": "2023-09-22T04:30:25.370Z",
+        "updated_at": "2023-09-22T08:27:36.330Z"
+      },
+      {
+        "id": "be97735a-6409-43f5-b973-426b00e12259",
+        "created_at": "2023-09-22T17:49:33.859Z",
+        "updated_at": "2023-09-21T20:36:52.370Z"
+      },
+      {
+        "id": "664742fb-cfd2-4377-a9ae-a7107502d3cf",
+        "created_at": "2023-09-22T12:19:18.199Z",
+        "updated_at": "2023-09-22T17:28:48.179Z"
+      },
+      {
+        "id": "c39f02fb-b629-4664-8725-42374a830fdc",
+        "created_at": "2023-09-22T09:16:06.604Z",
+        "updated_at": "2023-09-21T23:27:50.143Z"
+      },
+      {
+        "id": "d863d5db-3ee7-47c8-8495-125a9088f70a",
+        "created_at": "2023-09-22T11:54:16.775Z",
+        "updated_at": "2023-09-22T18:11:20.313Z"
+      }
+    ],
+    "service_parts": [
+      {
+        "id": "359b64e3-759d-4a73-9d9d-54c9db14516a",
+        "created_at": "2023-09-21T20:36:06.376Z",
+        "updated_at": "2023-09-22T13:08:40.444Z"
+      },
+      {
+        "id": "c211b99f-1d37-43ac-a999-c9c683116984",
+        "created_at": "2023-09-22T12:26:27.123Z",
+        "updated_at": "2023-09-21T20:16:11.758Z"
+      },
+      {
+        "id": "9d1858b0-d724-4bb0-b8d4-0e179f57cc8c",
+        "created_at": "2023-09-22T07:46:28.556Z",
+        "updated_at": "2023-09-22T18:21:45.086Z"
+      },
+      {
+        "id": "1c05b125-0128-4075-a11e-58031d1973a7",
+        "created_at": "2023-09-22T07:29:50.701Z",
+        "updated_at": "2023-09-22T03:22:49.396Z"
+      },
+      {
+        "id": "ee2f984d-7c37-4d3e-9dcd-6d178ba92e06",
+        "created_at": "2023-09-22T17:52:47.939Z",
+        "updated_at": "2023-09-22T06:49:39.188Z"
+      }
+    ],
+    "service_location": [
+      {
+        "id": "399085aa-3935-4b93-8cc6-70044d9d4780",
+        "created_at": "2023-09-22T11:23:50.680Z",
+        "updated_at": "2023-09-21T20:18:47.246Z"
+      },
+      {
+        "id": "1f8e9864-2656-4fe5-8db4-037a9490b62c",
+        "created_at": "2023-09-21T19:33:30.353Z",
+        "updated_at": "2023-09-21T22:41:03.283Z"
+      },
+      {
+        "id": "f284a85e-b40c-4496-99d1-e8223e6a89f6",
+        "created_at": "2023-09-21T23:39:11.594Z",
+        "updated_at": "2023-09-22T13:12:43.939Z"
+      },
+      {
+        "id": "0542f9a2-e3dc-4651-abe5-4b958cdae918",
+        "created_at": "2023-09-22T02:15:15.992Z",
+        "updated_at": "2023-09-22T08:10:07.411Z"
+      },
+      {
+        "id": "74317089-c306-48c8-8bb8-960634f98df5",
+        "created_at": "2023-09-22T13:01:50.625Z",
+        "updated_at": "2023-09-22T04:11:06.135Z"
+      }
+    ],
+    "service_history": [
+      {
+        "id": "4814da08-52cd-41e8-b5ec-8ae3728b048c",
+        "created_at": "2023-09-22T03:16:27.593Z",
+        "updated_at": "2023-09-22T18:13:44.006Z"
+      },
+      {
+        "id": "d6dc7fce-f4a6-4a15-9949-048b1ab08943",
+        "created_at": "2023-09-22T09:38:29.605Z",
+        "updated_at": "2023-09-22T12:22:18.828Z"
+      },
+      {
+        "id": "e59b9109-f64a-4514-9665-d4222f80873e",
+        "created_at": "2023-09-22T12:32:12.897Z",
+        "updated_at": "2023-09-22T13:58:10.907Z"
+      },
+      {
+        "id": "e8ff120e-1fa8-4c45-819a-b5966bc57e5f",
+        "created_at": "2023-09-21T19:55:27.538Z",
+        "updated_at": "2023-09-22T08:31:16.029Z"
+      },
+      {
+        "id": "32aed0bd-0568-4a2d-97c6-a8b492e276a2",
+        "created_at": "2023-09-22T06:40:06.324Z",
+        "updated_at": "2023-09-22T09:28:56.011Z"
+      }
+    ],
+    "laptop_owner": [
+      {
+        "id": "cacf07ae-a78a-4e20-8c11-f613796bc5fc",
+        "created_at": "2023-09-22T09:26:05.392Z",
+        "updated_at": "2023-09-22T05:12:59.334Z"
+      },
+      {
+        "id": "ccc6b507-cfd6-4794-a40d-ccddd4707a60",
+        "created_at": "2023-09-22T01:08:46.133Z",
+        "updated_at": "2023-09-22T08:35:33.783Z"
+      },
+      {
+        "id": "cda38679-afcd-4045-998f-3cef9f3d6f1a",
+        "created_at": "2023-09-21T22:53:22.702Z",
+        "updated_at": "2023-09-22T13:07:25.272Z"
+      },
+      {
+        "id": "8a749e77-fc59-4c12-98ba-7b88259ad194",
+        "created_at": "2023-09-21T21:10:05.228Z",
+        "updated_at": "2023-09-22T03:30:29.549Z"
+      },
+      {
+        "id": "a7c75d45-c432-424d-ba98-ef176933cfff",
+        "created_at": "2023-09-22T00:38:23.662Z",
+        "updated_at": "2023-09-22T10:08:53.525Z"
+      }
+    ],
+    "laptop_model": [
+      {
+        "id": "ea6e4d7f-5091-451c-8311-1efd3d55be61",
+        "created_at": "2023-09-22T01:36:27.690Z",
+        "updated_at": "2023-09-22T18:22:25.183Z"
+      },
+      {
+        "id": "e87b0acc-fa74-4aea-a7f1-05be300a5559",
+        "created_at": "2023-09-22T07:17:00.722Z",
+        "updated_at": "2023-09-22T06:27:51.977Z"
+      },
+      {
+        "id": "3e1ae7c3-4f65-4277-be30-52f4a83516dd",
+        "created_at": "2023-09-21T19:34:50.752Z",
+        "updated_at": "2023-09-22T18:21:07.766Z"
+      },
+      {
+        "id": "222c44b1-540a-4642-8d21-bca19a9abaf2",
+        "created_at": "2023-09-21T22:35:39.540Z",
+        "updated_at": "2023-09-22T07:02:26.867Z"
+      },
+      {
+        "id": "97416a87-877f-4f83-b443-2f2e8c112669",
+        "created_at": "2023-09-22T09:49:20.966Z",
+        "updated_at": "2023-09-21T23:28:00.889Z"
+      }
+    ],
+    "laptop_inventory": [
+      {
+        "id": "b60daf5e-0dbb-4cb8-9a0f-7b43b70bec83",
+        "created_at": "2023-09-22T09:27:16.684Z",
+        "updated_at": "2023-09-22T06:57:00.157Z"
+      },
+      {
+        "id": "9be6c873-61e7-4481-b037-db07d5b0b0c8",
+        "created_at": "2023-09-22T02:06:16.655Z",
+        "updated_at": "2023-09-21T20:29:58.273Z"
+      },
+      {
+        "id": "d992fe90-1f79-4323-9772-e8d88bf3d948",
+        "created_at": "2023-09-22T07:17:11.843Z",
+        "updated_at": "2023-09-22T13:36:38.799Z"
+      },
+      {
+        "id": "da01b8c6-5646-4b71-9fd7-9bca39d59270",
+        "created_at": "2023-09-22T08:27:13.605Z",
+        "updated_at": "2023-09-22T04:16:22.957Z"
+      },
+      {
+        "id": "5e5f14d2-bc6f-458c-bd42-45df326d11d2",
+        "created_at": "2023-09-22T12:39:26.107Z",
+        "updated_at": "2023-09-22T07:00:04.389Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "d98a9a24-d71a-4baa-8aba-39c4a0cf8c33",
+        "email": "Bruce_Hand@roq.tech",
+        "firstName": "Pattie",
+        "lastName": "Hagenes",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/547.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "0c4705e1-edd1-472f-a388-88fed37ad2c4",
+        "email": "Major.Borer@roq.tech",
+        "firstName": "Clifford",
+        "lastName": "Koch",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/81.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "f80cc0ab-c527-47da-ac28-77d48adb8bd2",
+        "email": "Melody70@roq.tech",
+        "firstName": "Marjory",
+        "lastName": "Rice",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/14521362",
+        "tenantId": null
+      },
+      {
+        "reference": "27e17eb0-4fe0-4de4-bd16-166d607db2f7",
+        "email": "Jamie62@roq.tech",
+        "firstName": "Florence",
+        "lastName": "Windler",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/687.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "d698bb43-67bd-4f32-8a6c-b0ed365b9525",
+        "email": "Joannie_Howell@roq.tech",
+        "firstName": "Alfreda",
+        "lastName": "Kessler",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/49557680",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "warranty_details": [
+      {
+        "id": "2de3571f-1406-41f0-ac4b-bb692e58f88d",
+        "created_at": "2023-09-22T03:33:01.797Z",
+        "updated_at": "2023-09-21T19:24:59.641Z"
+      },
+      {
+        "id": "673b252f-a59e-4b03-88f2-a7c44ad6e897",
+        "created_at": "2023-09-22T10:27:53.713Z",
+        "updated_at": "2023-09-21T19:50:01.611Z"
+      },
+      {
+        "id": "c64bb60c-d20d-4607-8ede-098f620321a8",
+        "created_at": "2023-09-21T20:34:51.326Z",
+        "updated_at": "2023-09-22T10:07:36.689Z"
+      },
+      {
+        "id": "3cb27386-fee0-49e6-9c2a-b2dbe60b3c6e",
+        "created_at": "2023-09-22T14:43:50.929Z",
+        "updated_at": "2023-09-22T04:57:53.789Z"
+      },
+      {
+        "id": "1e319b79-13a1-4b1e-9396-dd8ac41f2e78",
+        "created_at": "2023-09-22T09:31:27.140Z",
+        "updated_at": "2023-09-21T20:30:58.593Z"
+      }
+    ],
+    "service_type": [
+      {
+        "id": "337d2094-884a-4516-92dd-3ee6ab81cfc0",
+        "created_at": "2023-09-22T03:16:48.938Z",
+        "updated_at": "2023-09-22T11:48:33.978Z"
+      },
+      {
+        "id": "550a11cb-0217-4dc6-88d5-4173c719fc03",
+        "created_at": "2023-09-21T23:44:17.458Z",
+        "updated_at": "2023-09-22T17:06:14.457Z"
+      },
+      {
+        "id": "6c625f00-c9fe-46d2-b37b-3531894ab223",
+        "created_at": "2023-09-22T12:57:43.436Z",
+        "updated_at": "2023-09-22T14:41:25.090Z"
+      },
+      {
+        "id": "424df906-4828-4b7e-bc20-61ea1da95219",
+        "created_at": "2023-09-22T04:48:18.288Z",
+        "updated_at": "2023-09-21T23:38:35.921Z"
+      },
+      {
+        "id": "5f9ab755-4897-4435-b2cb-b8adbb36a66e",
+        "created_at": "2023-09-21T21:23:22.247Z",
+        "updated_at": "2023-09-22T15:03:29.352Z"
+      }
+    ],
+    "service_ticket": [
+      {
+        "id": "a7cfb58d-a04e-4e7f-9962-d94f9d398754",
+        "created_at": "2023-09-22T13:21:32.726Z",
+        "updated_at": "2023-09-22T03:56:54.932Z"
+      },
+      {
+        "id": "a5a188a4-5640-4073-ac30-4a7c9816ee84",
+        "created_at": "2023-09-22T12:25:25.717Z",
+        "updated_at": "2023-09-22T09:08:16.654Z"
+      },
+      {
+        "id": "74332647-5f7a-4002-bbd6-c7832790fdc1",
+        "created_at": "2023-09-22T01:58:36.427Z",
+        "updated_at": "2023-09-21T19:27:30.016Z"
+      },
+      {
+        "id": "9a5546cf-0822-4d61-9334-5ded11f5c77c",
+        "created_at": "2023-09-22T00:09:17.297Z",
+        "updated_at": "2023-09-22T05:24:06.887Z"
+      },
+      {
+        "id": "305cdf03-a6fa-4f04-bd3a-ded80e25ad3f",
+        "created_at": "2023-09-22T05:45:05.362Z",
+        "updated_at": "2023-09-21T20:52:48.100Z"
+      }
+    ],
+    "service_status": [
+      {
+        "id": "81c19f5f-c17b-4c5c-bfde-e623130f3332",
+        "created_at": "2023-09-22T05:16:28.836Z",
+        "updated_at": "2023-09-22T02:03:33.462Z"
+      },
+      {
+        "id": "8c33c8c7-595b-45ab-a91c-3f862450c0eb",
+        "created_at": "2023-09-22T00:46:56.388Z",
+        "updated_at": "2023-09-22T10:50:31.137Z"
+      },
+      {
+        "id": "872a9f80-2422-4bf3-bb36-08613d28aaa7",
+        "created_at": "2023-09-21T23:23:19.389Z",
+        "updated_at": "2023-09-22T02:54:21.281Z"
+      },
+      {
+        "id": "e02b363e-5c24-4795-b797-05fcad5cfae0",
+        "created_at": "2023-09-22T08:44:41.921Z",
+        "updated_at": "2023-09-22T13:28:50.127Z"
+      },
+      {
+        "id": "7af51bc6-c87b-4974-b5bf-3b9bb677bc5d",
+        "created_at": "2023-09-22T15:22:48.623Z",
+        "updated_at": "2023-09-21T22:04:27.224Z"
+      }
+    ],
+    "service_parts": [
+      {
+        "id": "288a80c7-3465-46b0-a074-550243092dc4",
+        "created_at": "2023-09-22T08:04:40.895Z",
+        "updated_at": "2023-09-22T08:57:27.455Z"
+      },
+      {
+        "id": "a4581a74-54f3-4f36-b288-ed9d3b8633c1",
+        "created_at": "2023-09-22T05:01:26.231Z",
+        "updated_at": "2023-09-22T11:29:54.054Z"
+      },
+      {
+        "id": "5e845018-80b5-4b05-a6d3-9da51e08c358",
+        "created_at": "2023-09-22T09:35:11.638Z",
+        "updated_at": "2023-09-22T06:16:03.096Z"
+      },
+      {
+        "id": "719f41d5-dad0-4b2d-a608-503e03830361",
+        "created_at": "2023-09-22T14:09:30.678Z",
+        "updated_at": "2023-09-22T06:55:30.065Z"
+      },
+      {
+        "id": "1b5bc205-2be1-4241-9af5-80eca4f6d4aa",
+        "created_at": "2023-09-22T14:39:26.236Z",
+        "updated_at": "2023-09-22T17:38:49.401Z"
+      }
+    ],
+    "service_location": [
+      {
+        "id": "d47f8039-259c-4548-b5df-720b05db67b5",
+        "created_at": "2023-09-22T00:49:15.472Z",
+        "updated_at": "2023-09-22T09:09:53.873Z"
+      },
+      {
+        "id": "5a9350b1-6e50-4b0e-959f-29ee7611b1ca",
+        "created_at": "2023-09-22T07:27:17.730Z",
+        "updated_at": "2023-09-22T16:41:20.223Z"
+      },
+      {
+        "id": "c5a5c672-4f1d-4241-aacb-c545a580dc8b",
+        "created_at": "2023-09-22T14:58:59.298Z",
+        "updated_at": "2023-09-22T07:47:49.012Z"
+      },
+      {
+        "id": "d350af04-42aa-47dc-abaa-ff55ab041312",
+        "created_at": "2023-09-22T09:58:59.047Z",
+        "updated_at": "2023-09-22T06:27:40.715Z"
+      },
+      {
+        "id": "07527cf0-0fb6-418a-9fbe-93a38e361bfc",
+        "created_at": "2023-09-21T21:25:20.538Z",
+        "updated_at": "2023-09-22T04:13:38.921Z"
+      }
+    ],
+    "service_history": [
+      {
+        "id": "74c9a910-0af9-4e25-9a86-9062ff8b9708",
+        "created_at": "2023-09-22T14:26:32.369Z",
+        "updated_at": "2023-09-22T00:09:55.650Z"
+      },
+      {
+        "id": "9370aa45-393b-4fa4-825b-c03fa0c9ca75",
+        "created_at": "2023-09-21T21:16:01.943Z",
+        "updated_at": "2023-09-22T00:29:18.264Z"
+      },
+      {
+        "id": "6e0cdc80-6428-4907-8a3f-f33727ffeb29",
+        "created_at": "2023-09-21T22:46:10.552Z",
+        "updated_at": "2023-09-22T03:36:16.593Z"
+      },
+      {
+        "id": "19ae660c-4279-4a8d-82e2-dba5b6c43188",
+        "created_at": "2023-09-22T11:05:42.453Z",
+        "updated_at": "2023-09-22T14:13:47.781Z"
+      },
+      {
+        "id": "621fce83-a4f4-4a84-8926-80367971fbd3",
+        "created_at": "2023-09-21T23:44:45.548Z",
+        "updated_at": "2023-09-22T07:28:30.391Z"
+      }
+    ],
+    "laptop_owner": [
+      {
+        "id": "835985af-f44e-4592-907a-b107323920ae",
+        "created_at": "2023-09-21T23:40:51.203Z",
+        "updated_at": "2023-09-22T04:23:26.437Z"
+      },
+      {
+        "id": "0b73bc6f-c8ca-4105-b1dd-7482b92981f4",
+        "created_at": "2023-09-22T16:27:47.960Z",
+        "updated_at": "2023-09-22T02:37:33.697Z"
+      },
+      {
+        "id": "6e8e741a-4acd-4c4d-95a3-201477eab260",
+        "created_at": "2023-09-21T21:48:32.713Z",
+        "updated_at": "2023-09-22T09:38:37.778Z"
+      },
+      {
+        "id": "1b1305f4-f1cd-404c-a69e-a08499d48921",
+        "created_at": "2023-09-21T20:17:29.647Z",
+        "updated_at": "2023-09-22T18:51:44.371Z"
+      },
+      {
+        "id": "2cb17992-a799-4855-a2d1-2432efbf445f",
+        "created_at": "2023-09-22T04:30:58.597Z",
+        "updated_at": "2023-09-21T22:56:01.188Z"
+      }
+    ],
+    "laptop_model": [
+      {
+        "id": "e353cfaa-d73f-4b78-99db-708bf88ac909",
+        "created_at": "2023-09-21T22:40:49.820Z",
+        "updated_at": "2023-09-22T14:40:40.793Z"
+      },
+      {
+        "id": "91a08e5e-484e-4422-8cfe-c369691283cd",
+        "created_at": "2023-09-22T05:14:45.835Z",
+        "updated_at": "2023-09-22T06:19:35.083Z"
+      },
+      {
+        "id": "f4493233-99ed-455e-acb6-25c5bbbb7911",
+        "created_at": "2023-09-22T05:37:28.229Z",
+        "updated_at": "2023-09-22T03:08:07.069Z"
+      },
+      {
+        "id": "fd6e0965-073c-4273-beef-860369245419",
+        "created_at": "2023-09-22T04:45:38.491Z",
+        "updated_at": "2023-09-21T22:04:05.566Z"
+      },
+      {
+        "id": "92fa361a-b99b-46aa-a80d-d7840a475d61",
+        "created_at": "2023-09-21T22:36:10.770Z",
+        "updated_at": "2023-09-22T13:22:14.468Z"
+      }
+    ],
+    "laptop_inventory": [
+      {
+        "id": "2e6f5002-bcb6-43f8-9a30-67b789559bf2",
+        "created_at": "2023-09-22T16:41:06.161Z",
+        "updated_at": "2023-09-21T21:10:33.987Z"
+      },
+      {
+        "id": "85c73ce8-05db-4794-bb37-397d9ace395e",
+        "created_at": "2023-09-22T05:13:59.931Z",
+        "updated_at": "2023-09-21T22:19:19.400Z"
+      },
+      {
+        "id": "24c3e658-9bdb-4062-9fc5-2ae8ec08a431",
+        "created_at": "2023-09-22T00:20:31.215Z",
+        "updated_at": "2023-09-22T06:02:45.055Z"
+      },
+      {
+        "id": "dedc9577-ad1c-4100-ac10-a5a49d0b1539",
+        "created_at": "2023-09-22T05:41:36.544Z",
+        "updated_at": "2023-09-22T15:46:03.949Z"
+      },
+      {
+        "id": "8dd2ea13-8fa6-41b8-bfc7-de8f414cbbd0",
+        "created_at": "2023-09-22T15:48:52.225Z",
+        "updated_at": "2023-09-22T12:03:58.660Z"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "36957180-bad6-48a1-8939-5c507c45099e",
+        "email": "Juwan.Stark15@roq.tech",
+        "firstName": "Troy",
+        "lastName": "Tremblay",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/184.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "b221e86c-1fa1-4c0e-8c2f-bc46ba642532",
+        "email": "Gwen.Harvey@roq.tech",
+        "firstName": "Lester",
+        "lastName": "Bosco",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/41449406",
+        "tenantId": null
+      },
+      {
+        "reference": "ac6d6366-86ca-4287-9fd0-4b36199c5486",
+        "email": "Madge.Kautzer@roq.tech",
+        "firstName": "Gina",
+        "lastName": "Herzog",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/79048826",
+        "tenantId": null
+      },
+      {
+        "reference": "25e3ed7f-ac17-40e5-bc17-46d867b223bf",
+        "email": "Keeley_OConner@roq.tech",
+        "firstName": "Sadye",
+        "lastName": "Collins",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/78441337",
+        "tenantId": null
+      },
+      {
+        "reference": "6bf9c0e8-55e6-4b26-8bfd-769db2f0a105",
+        "email": "Laury_Moen54@roq.tech",
+        "firstName": "Caesar",
+        "lastName": "Dach",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1208.jpg",
+        "tenantId": null
+      }
+    ]
+  }
+]
